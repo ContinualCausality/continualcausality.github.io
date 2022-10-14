@@ -60,13 +60,11 @@ University of Washington, Allen Institute for AI. <br />
 <br />
 <br />
 <br />
-<br />
 
  
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/christopher.jpg){: .align-left style="width:150px;"} <br />
 [Christopher Kanan](https://chriskanan.com) <br />
 University of Rochester <br />
-<br />
 <br />
 <br />
 <br />
@@ -76,7 +74,6 @@ University of Rochester <br />
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tobias.jpg){: .align-left style="width:150px;"} <br />
 [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) <br />
 Stanford University <br />
-<br />
 <br />
 <br />
 <br />
