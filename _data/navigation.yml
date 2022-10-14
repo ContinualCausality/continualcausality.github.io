@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: ./
+  - title: "Bridge Format"
+    url: /format/
+  - title: "Call For Participation"
+    url: /cfp/
+  - title: "Program"
+    url: /program/
+  - title: "Organizers"
+    url: /organizers/
