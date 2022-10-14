@@ -23,3 +23,5 @@ To provide some suggestions, **contributions could center around the following a
 * Leveraging causal tools to interpret distributional shifts in continual learning.
 * Next generation benchmarks that go beyond repurposing of existing datasets to adequately support the above items and further essential research questions towards a symbiosis of continual learning and causality.
 
+For questions, join our [Slack](https://join.slack.com/t/continualcausality/shared_invite/zt-1fwahodl3-7Z8xe_lzxj33qEbTs558kg) or Email the organizers at info[at]continualcausality[dot]org
+

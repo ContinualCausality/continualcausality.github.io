@@ -17,7 +17,8 @@ With this bridge program, we aim to take the first steps towards a unified treat
 
 * More in-depth information is provided in below paragraphs and the [bridge format section](http://www.continualcausality.org/format/). 
 * The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts.
-* 
+* Join our community on [Slack](https://join.slack.com/t/continualcausality/shared_invite/zt-1fwahodl3-7Z8xe_lzxj33qEbTs558kg)
+* Email info[at]continualcausality[dot]org for questions  
 
 #### Bridge Perspectives and Areas of Focus
 
@@ -36,9 +37,8 @@ Both fields, causality and continual learning, thus exhibit complementary streng
 Despite causality having taken huge strides in recent years, causal learning tools are prone to catastrophic interference of past-learned and possibly imperfect representations when new data becomes available. Learning (possibly dynamic and out-of-equilibrium) causal models from a continuous stream of data is thus extremely challenging, especially when data comes from multiple disparate sources and is collected under different conditions and study designs.
 
 The field of continual learning is poised to mitigate these shortcomings. Although there has been work on transferring causal information across domains and populations (Pearl 2014, Lee 2020), a challenging assumption of sufficient background knowledge on what features are shared across the domains is made.
-
 Continual learning can aid causal learning tools by mitigating the fragility of models to data distribution shifts with partially available information
-as well as provide benefits to learning from the temporal structure of the stream of data.
+as well as provide benefits to learning from the temporal structure of the stream of data. 
 
 In turn, causal tools present an opportunity to aid continual learning algorithms through improving their capability of discovering and describing the underlying system beyond the statistical relationships learned from a stream of data received from the environment. The latter presents an opportunity to further improve not only a continual model's explainability and effectiveness in decision making, but also our human understanding of continual techniques.
 
