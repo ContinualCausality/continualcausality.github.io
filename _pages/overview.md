@@ -7,8 +7,7 @@ classes: wide
 
 # Continual Causality
 
-## Bridge Program at AAAI 2023 - 7+8th February 2023
---------------------------------------
+## Bridge Program at AAAI 2023 - 7+8th February 2023 (in hybrid format)
 
 #### Bridge Overview
 We aim to bring together the fields of *continual learning* and *causality* in a [AAAI-23 bridge program](https://aaai.org/Conferences/AAAI-23/bridge-theme/) called *Continual Causality*. Both fields research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. Despite some recent interest in bringing the two fields together, it is currently unclear how causal models may describe continuous streams of data and, vice versa, for continual learning to exploit learned causal structure. 
