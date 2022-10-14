@@ -5,7 +5,14 @@ layout: splash
 classes: wide 
 ---
 
-# Call for Papers
+# Call for Participation
+
+> Submission deadline: 18th November 2022, Anywhere On Earth (AoE)
+
+> Notifications: 2nd December 2022
+
+> Bridge: 7-8th February 2023
+
 
 The fields of **causality** and **continual learning** research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. On the one hand, causality theory provides the language, algorithms, and tools to discover and infer cause-and-effect relationships from data and a partial understanding of a complex system. On the other hand, continual learning systems learn over time from a continuous stream of data, enable knowledge transfer, and alleviate potentially malicious interference when distributional shifts are experienced. However, despite some recent interest in bringing the two fields together, it is currently unclear how causal models may describe continuous streams of data and, vice versa, for continual learning to exploit learned causal structure. 
 
