@@ -4,6 +4,14 @@ title: "Program"
 layout: splash
 classes: wide
 ---
+ <style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+ </style>
 
 # Program
 
@@ -46,8 +54,32 @@ The *tenative* program (subject to minor changes) is as follows:
 
 #### Vision Speakers 
 
-* [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
-* [Christopher Kanan](https://chriskanan.com), University of Rochester
-* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/yejin.jpg){: .align-left style="width:150px;"} <br />
+[Yejin Choi](https://homes.cs.washington.edu/~yejin/) <br />
+University of Washington, Allen Institute for AI. <br />
+<br />
+<br />
+<br />
+<br />
+
+ 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/christopher.jpg){: .align-left style="width:150px;"} <br />
+[Christopher Kanan](https://chriskanan.com) <br />
+University of Rochester <br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tobias.jpg){: .align-left style="width:150px;"} <br />
+[Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) <br />
+Stanford University <br />
+<br />
+<br />
+<br />
+<br />
+
 
 *Detailed speaker info to be updated soon* 
