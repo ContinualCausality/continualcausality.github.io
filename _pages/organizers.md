@@ -11,50 +11,43 @@ classes: wide
       margin-right: auto;
       float: right;
     }
+    td, th {
+   		border: none!important;
+   	} 
  </style>
 
+
 # Organizers
+We are seven organizers, representing a roughly balanced expertise with a focus on continual learning and causality. Martin, Tyler, James and Keiland are board members of the [ContinualAI](https://www.continualai.org) non-profit organization. Devendra, Adèle and Alexis feature the complementary required expertise in causality. 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-left style="width:120px;"}
-<a href="http://owll-lab.com">Martin Mundt</a>
+ <a href="http://owll-lab.com">Martin Mundt</a>    |  <a href="https://tyler-hayes.github.io">Tyler Hayes</a> | <a href="https://jamessealesmith.github.io">James Smith</a> | <a href="https://www.kwcooper.xyz">Keiland Cooper</a>
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-center style="width:120px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tyler.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/james.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-center style="width:120px;"}
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
+Junior Research Group Leader  | Postdoctoral Researcher | PhD Student | PhD Student 
+:-------------------------:|:-------------------------:|:-------------------------: 
+TU Darmstadt & hessian.AI | RIT | Georgia Tech | University of California
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tyler.jpg){: .align-left style="width:120px;"}
-<a href="https://tyler-hayes.github.io">Tyler Hayes</a>
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/devendra.jpg){: .align-left style="width:120px;"}
-<a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/james.jpg){: .align-left style="width:120px;"}
-<a href="https://jamessealesmith.github.io">James Smith</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/adele.jpg){: .align-left style="width:120px;"}
-<a href="https://adele.github.io">Adèle Helena Ribeiro</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-left style="width:120px;"}
-<a href="https://www.kwcooper.xyz">Keiland Cooper</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/alexis.jpg){: .align-left style="width:120px;"}
-<a href="https://alexisbellot.github.io/Website/">Alexis Bellot</a>
+<a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a> |  <a href="https://adele.github.io">Adèle Helena Ribeiro</a> | <a href="https://alexisbellot.github.io/Website/">Alexis Bellot</a>
+:-------------------------:|:-------------------------:|:-------------------------:
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/devendra.jpg){: .align-center style="width:120px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/adele.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/alexis.jpg){: .align-center style="width:120px;"} 
+:-------------------------:|:-------------------------:|:-------------------------:
+Junior Research Group Leader  | Postdoctoral Researcher | Research Scientist
+:-------------------------:|:-------------------------:|:-------------------------: 
+TU Darmstadt & hessian.AI | Columbia University | DeepMind
 
 # Advisors
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/diyi.jpg){: .align-left style="width:120px;"}
-<a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+Continual Causality is further supported by six bridge advisors. 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/razvan.jpg){: .align-left style="width:120px;"}
-<a href="https://sites.google.com/view/razp">Razvan Pascanu</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tobias.jpg){: .align-left style="width:120px;"}
-<a href="https://cicl.stanford.edu/member/tobias_gerstenberg/">Tobias Gerstenberg</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/christopher.jpg){: .align-left style="width:120px;"}
-<a href="https://chriskanan.com">Christopher Kanan</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kristian.jpg){: .align-left style="width:120px;"}
-<a href="https://ml-research.github.io/people/kkersting/">Kristian Kersting</a>
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martha.jpg){: .align-left style="width:120px;"}
-<a href="https://webdocs.cs.ualberta.ca/~whitem/">Martha White</a>
+<a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> | <a href="https://cicl.stanford.edu/member/tobias_gerstenberg/">Tobias Gerstenberg</a> | <a href="https://chriskanan.com">Christopher Kanan</a> | <a href="https://ml-research.github.io/people/kkersting/">Kristian Kersting</a> | <a href="https://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> | <a href="https://sites.google.com/view/razp">Razvan Pascanu</a>
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/diyi.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tobias.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/christopher.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kristian.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martha.jpg){: .align-center style="width:120px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/razvan.jpg){: .align-center style="width:120px;"}
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
+Assistant Professor | Assistant Professor | Associate Professor | Full Professor | Associate Professor | Research Scientist
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
+Stanford University | Stanford University | University of Rochester | TU Darmstadt, hessian.AI | University of Alberta, Amii | DeepMind  
 
 
 
