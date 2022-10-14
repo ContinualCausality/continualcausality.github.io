@@ -42,7 +42,7 @@ We are seven organizers, representing a roughly balanced expertise with a focus 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tyler.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/james.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-center style="width:150px;"}
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-Junior Research Group Leader  | Postdoctoral Researcher | PhD Student | PhD Student 
+Junior Research Group Leader  | Researcher | PhD Student | PhD Student 
 :-------------------------:|:-------------------------:|:-------------------------: 
 TU Darmstadt & hessian.AI | RIT | Georgia Tech | University of California
 
