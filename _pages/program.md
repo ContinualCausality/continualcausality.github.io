@@ -45,4 +45,9 @@ The *tenative* program (subject to minor changes) is as follows:
 [DoWhy](https://py-why.github.io/dowhy): is a Python library that aims to spark causal thinking and analysis. DoWhy provides a principled four-step interface for causal inference that focuses on explicitly modeling causal assumptions and validating them as much as possible. The key feature of DoWhy is its state-of-the-art refutation API that can automatically test causal assumptions for any estimation method, thus making inference more robust and accessible to non-experts. DoWhy supports estimation of the average causal effect for backdoor, frontdoor, instrumental variable and other identification methods, and estimation of the conditional effect (CATE) through an integration with the EconML library. DoWhy has over 5000 stars on Github and more than 700 forks. 
 
 #### Vision Speakers 
-*to be updated soon* 
+
+* [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
+* [Christopher Kanan](https://chriskanan.com), University of Rochester
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University 
+
+*Detailed speaker info to be updated soon* 
