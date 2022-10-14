@@ -36,13 +36,13 @@ classes: wide
 
 
 # Organizers
-We are seven organizers, representing a roughly balanced expertise with a focus on continual learning and causality. Martin, Tyler, James and Keiland are board members of the [ContinualAI](https://www.continualai.org) non-profit organization. Devendra, Adèle and Alexis feature the complementary required expertise in causality. 
+Our seven organizers represent a balanced expertise with a focus on continual learning and causality. Martin, Tyler, James and Keiland are board members of the [ContinualAI](https://www.continualai.org) non-profit organization. Devendra, Adèle and Alexis feature the complementary required expertise in causality. 
 
 <a href="http://owll-lab.com">Martin Mundt</a> |  <a href="https://tyler-hayes.github.io">Tyler Hayes</a> | <a href="https://jamessealesmith.github.io">James Smith</a> | <a href="https://www.kwcooper.xyz">Keiland Cooper</a>
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tyler.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/james.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-center style="width:150px;"}
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-Junior Research Group Leader  | Researcher | PhD Student | PhD Student 
+Junior Research Group Leader  | Researcher | PhD Student | PhD Candidate
 :-------------------------:|:-------------------------:|:-------------------------: 
 TU Darmstadt & hessian.AI | RIT | Georgia Tech | University of California
 
