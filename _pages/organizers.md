@@ -53,7 +53,7 @@ TU Darmstadt & hessian.AI | RIT | Georgia Tech | University of California
 :-------------------------:|:-------------------------:|:-------------------------:
 Junior Research Group Leader  | Postdoctoral Researcher | Research Scientist
 :-------------------------:|:-------------------------:|:-------------------------: 
-TU Darmstadt & hessian.AI | Columbia University | DeepMind
+TU Darmstadt & hessian.AI | University of Marburg | DeepMind
 
 # Advisors
 
