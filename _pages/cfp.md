@@ -7,7 +7,7 @@ classes: wide
 
 # Call for Participation
 
-> Submission deadline: 18th November 2022, Anywhere On Earth (AoE). Submit on [OpenReview](https://openreview.net/group?id=AAAI.org/2023/Bridge/CCBridge)
+> Submission deadline: **Extended to 22nd November 2022 Anywhere on Earth (AOE)** <s>18th November 2022, Anywhere On Earth (AoE)</s> . Submit on [OpenReview](https://openreview.net/group?id=AAAI.org/2023/Bridge/CCBridge)
 
 > Notifications: 2nd December 2022
 
@@ -19,7 +19,7 @@ The fields of **causality** and **continual learning** research complementary as
 We propose to bring together the fields of continual learning and causality in a **two-day AAAI-23 bridge program called "Continual Causality"**. 
 In this bridge program, we aim to take the first steps towards a unified treatment of these fields and to provide the **space for learning, discussions, and to connect and build a diverse long-term community**.
  
-To this end, the Continual Causality Bridge invites **submissions that present general positions and visions of how to link the two fields**, outline challenges that need to be overcome, highlight synergies, and propose tangible future steps. Submissions of position papers should be up to **two pages** (excluding references, and without appendices) in the AAAI format. **The submission deadline is November 18th, 2022 (AOE).** All submissions will be managed through OpenReview and will later be collected in a proceedings volume: 
+To this end, the Continual Causality Bridge invites **submissions that present general positions and visions of how to link the two fields**, outline challenges that need to be overcome, highlight synergies, and propose tangible future steps. Submissions of position papers should be up to **two pages** (excluding references, and without appendices) in the AAAI format. **The submission deadline is November 22nd, 2022 (AOE).** All submissions will be managed through OpenReview and will later be collected in a proceedings volume: 
 [https://openreview.net/group?id=AAAI.org/2023/Bridge/CCBridge](https://openreview.net/group?id=AAAI.org/2023/Bridge/CCBridge)
 
 The review process is double-blind, so submissions should be anonymized. As our bridge’s focus is on building a long-term community, the review process will be light and inclusive, focusing primarily on technical correctness as a means of evaluation. 
