@@ -42,9 +42,9 @@ Our seven organizers represent a balanced expertise with a focus on continual le
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tyler.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/james.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-center style="width:150px;"}
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-Junior Research Group Leader  | Researcher | PhD Student | PhD Candidate
+Junior Research Group Leader  | Research Scientist | PhD Student | PhD Candidate
 :-------------------------:|:-------------------------:|:-------------------------: 
-TU Darmstadt & hessian.AI | RIT | Georgia Tech | University of California
+TU Darmstadt & hessian.AI | NAVER Labs Europe | Georgia Tech | University of California
 
 
 <a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a> |  <a href="https://adele.github.io">Adèle Helena Ribeiro</a> | <a href="https://alexisbellot.github.io/Website/">Alexis Bellot</a>
