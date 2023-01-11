@@ -5,6 +5,8 @@ main:
     url: /format/
   - title: "Call For Participation"
     url: /cfp/
+  - title: "Papers"
+    url: /papers/
   - title: "Program"
     url: /program/
   - title: "Organizers"
