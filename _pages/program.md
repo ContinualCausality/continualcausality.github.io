@@ -19,33 +19,35 @@ The bridge's program spans activities from traditional tutorials and software la
 
 Detailed information on the invited speakers and panelists can be found further down on this page. The program *at one glance* is as follows: 
 
-#### Day 1
+All times are in Eastern Time Zone (EST, GMT-5)
+
+#### Day 1 (February 7th)
 
 * 8:45: Bridge kickoff (15 min)
-* 9:00: Tutorial on continual learning (90 min)
+* 9:00: Tutorial on continual learning: [Keiland Cooper](https://www.kwcooper.xyz) & [Martin Mundt](https://owll-lab.com) (90 min)
 * 10:30: Coffee break (30 min) 
-* 11:00: Tutorial on causality (90 min)
+* 11:00: Tutorial on causality: [Adèle Helena Ribeiro](https://adele.github.io) & [Devendra Singh Dhami](https://sites.google.com/view/devendradhami) (90 min)
 * 12:30: Joint lunch (60 min) 
-* 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q\&A (160 min)
+* 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A (160 min)
 	* [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
 	* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University 
 	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
 * 16:15: Coffee break (30 min)
-* 16:45: Panel discussion (60 min)
+* 16:45: Panel discussion: moderated by [James Smith](https://jamessealesmith.github.io) (60 min)
 	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
 	* [Dhireesha Kudithipudi](https://www.nuailab.com/members.html), University of Texas San Antonio
 	* [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at), University of Vienna
 
 
-#### Day 2
+#### Day 2 (February 8th) 
 * 8:55: Short opening (5 min)
 * 9:00: Software lab on continual learning with [Avalanche](https://avalanche.continualai.org): [Antonio Carta](http://pages.di.unipi.it/carta/)(90 min)
 * 10:30 Coffee break (30 min)
 * 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & [Robert Osazuwa Ness](https://www.microsoft.com/en-us/research/people/robertness/) (90 min)
 * 12:30: Joint lunch (60 min)
-* 13:30: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q\&A each (60min)	
+* 13:30: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
 	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy)  
   *Sanghyun Kim, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee* 
 	* [From IID to the Independent Mechanisms assumption in continual learning](https://openreview.net/pdf?id=qjh2DRM0JXh)   
@@ -93,7 +95,7 @@ Antonio Carta is an Assistant Professor at the University of Pisa and a member o
 
 ##### Causality with DoWhy - Peter Götz & Robert Osazuwa Ness 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dowhy.png){: .align-left style="width:250px;"} [DoWhy](https://py-why.github.io/dowhy): is a Python library that aims to spark causal thinking and analysis. DoWhy provides a principled four-step interface for causal inference that focuses on explicitly modeling causal assumptions and validating them as much as possible. The key feature of DoWhy is its state-of-the-art refutation API that can automatically test causal assumptions for any estimation method, thus making inference more robust and accessible to non-experts. DoWhy supports estimation of the average causal effect for backdoor, frontdoor, instrumental variable and other identification methods, and estimation of the conditional effect (CATE) through an integration with the EconML library. DoWhy has over 5000 stars on Github and more than 700 forks. <br />
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dowhy.png){: .align-left style="width:250px;"} [DoWhy](https://py-why.github.io/dowhy): is a Python library that aims to spark causal thinking and analysis, as part of the larger [PyWhy](https://www.pywhy.org) ecosystem. DoWhy provides a principled four-step interface for causal inference that focuses on explicitly modeling causal assumptions and validating them as much as possible. The key feature of DoWhy is its state-of-the-art refutation API that can automatically test causal assumptions for any estimation method, thus making inference more robust and accessible to non-experts. DoWhy supports estimation of the average causal effect for backdoor, frontdoor, instrumental variable and other identification methods, and estimation of the conditional effect (CATE) through an integration with the EconML library. DoWhy has over 5000 stars on Github and more than 700 forks. <br />
 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/peter.jpg){: .align-left style="width:250px;"} [Peter Götz](https://www.linkedin.com/in/petergtz/): Amazon Web Services <br />
@@ -108,16 +110,22 @@ Robert Osazuwa Ness is a researcher at Microsoft Research and author of the book
 
 
 ## Panelists 
-Our in-person panel will feature two of our vision speakers Vineeth N Balasubramanian and Christopher Kanan (see vision speaker section above for short descriptions), who will further be joined by Dhireesha Kudithipudi and Moritz Grosse-Wentrup: 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dhireesha.png){: .align-left style="width:250px;"} [Dhireesha Kudithipudi](https://www.nuailab.com/members.html), University of Texas San Antonio <br />
 Kudithipudi is the founding director of the MATRIX AI Consortium, the Robert F McDermott Endowed Chair in Engineering, and a Professor in ECE/CS at UTSA. Her research interests are in neuromorphic computing, low power machine intelligence, brain-inspired accelerators, and diversifying the AI field. Her team has developed neocortex-inspired AI accelerators, brain-inspired lifelong learning models, the first lifelong learning accelerator with spiking neurons, low power ML models, and tapered numerical precision architectures. She is the 2018 recipient of the Clare Booth Luce Scholarship in STEM for women in higher-ed, the 2018 Technology Woman of the Year in Rochester, the 2022 Academy of Distinguished Researchers, and the 2022 SanAntonio Lights award.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/moritz.jpg){: .align-left style="width:250px;"} [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at), University of Vienna <br />
-<br />
-<br />
-<br />
-<br />
+ 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/christopher.jpg){: .align-left style="width:250px;"} 
+[Christopher Kanan](https://chriskanan.com) - University of Rochester <br />
+Christopher Kanan is an Associate Professor of Computer Science at the University of Rochester. His research focuses on deep learning, especially continual machine learning, where he takes inspiration from cognitive science to make artificial neural networks capable of learning over time for large-scale vision and multi-modal perception tasks. With his students, he created widely known continual learning algorithms, including Streaming Linear Discriminant Analysis, REMIND, and FearNet. Other recent projects cover self-supervised learning, open-world learning, and creating bias robust neural network architectures. Previously, he led AI R&D at the start-up Paige, leading to the first FDA approved computer vision system for helping pathologists diagnose cancer in whole slide histopathology images. Kanan received a PhD in computer science from the University of California at San Diego. Prior to joining the University of Rochester, he worked as a researcher at NASA JPL and then as a professor of Imaging Science at the Rochester Institute of Technology. He is an NSF CAREER award recipient.
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/vineeth.jpg){: .align-left style="width:250px;"} 
+[Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University <br />
+Vineeth N Balasubramanian is an Associate Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology, Hyderabad (IIT-H), India, and is currently a Fulbright-Nehru Visiting Faculty Fellow at Carnegie Mellon University. He was also the Founding Head of the Department of Artificial Intelligence at IIT-H. His research interests include deep learning, machine learning, computer vision and explainable AI. His research has been published at various top-tier venues such as ICML, CVPR, NeurIPS, ICCV, KDD, AAAI, and IEEE TPAMI, with Best Paper Awards at recent venues such as CODS-COMAD 2022, CVPR 2021 Workshop on Causality in Vision, etc. He was the General Chair for ACML 2022, and regularly serves as a Senior PC/Area Chair for conferences such as CVPR, ICCV, AAAI, IJCAI, ECCV with recent awards including Outstanding Reviewer at ICLR 2021, CVPR 2019, ECCV 2020, etc. He is also a recipient of the Teaching Excellence Award at IIT-H (2017 and 2021), Fulbright-Nehru Professional and Academic Excellence Fellowship (2022-23), Google Research Scholar Award (2021), NASSCOM AI Gamechanger Award (2022), Google exploreCSR award (2022), among others.
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/moritz.jpg){: .align-left style="width:250px;"} [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at), University of Vienna <br /> 
+Moritz Grosse-Wentrup is a full professor and head of the Research Group Neuroinformatics in the Faculty of Computer Science at the University of Vienna, Austria. He works on interpretable machine learning (IML) techniques from a causal perspective and uses IML methods to explain how artificial and biological intelligent systems create (disorders of) cognition and generate behavior.
 <br />
 <br />
 <br />
@@ -125,4 +133,22 @@ Kudithipudi is the founding director of the MATRIX AI Consortium, the Robert F M
 
 
 ## Tutorials 
-*conducted by the Continual Causality Bridge organizers, to be updated soon* 
+
+##### Tutorial on Continual Learning 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-left style="width:250px;"} [Keiland Cooper](https://www.kwcooper.xyz): University of California, ContinualAI <br />
+Keiland Cooper is a National Science Foundation Fellow and Ph.D. candidate at the Department of Neurobiology and Behavior at the University of California, Irvine. He is also a co-founder of ContinualAI, a research non-profit dedicated to building intelligent machines that learn like we do. His work aims to understand the brain systems that allow this lifelong, continual learning and remembrance to occur. <br />
+<br />
+<br />
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-left style="width:250px;"} [Martin Mundt](https://owll-lab.com): Technical University of Darmstadt, hessian.AI, ContinualAI <br />
+Martin Mundt (he/him) is a junior research group leader at the Technical University of Darmstadt (TU Darmstadt) and the Hessian Center for Artificial Intelligence (hessian.AI), where he leads the Open World Lifelong Learning (OWLL) lab. He is also a board member of directors at the non-profit organization ContinualAI. Previously, he has obtained a PhD degree in computer science and an M.Sc. in physics from Goethe University. The main vision behind OWLL is to develop systems that are not only able to learn continuously, but also successfully recognize new situations and actively choose data to train on, while autonomously adapting in a robust and interpretable way. 
+<br />
+
+##### Tutorial on Causality 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/adele.jpg){: .align-left style="width:250px;"} [Adèle Helena Ribeiro](https://adele.github.io): University of Marburg <br />
+Adele Ribeiro is a postdoc in Dominik Heider's research group at Philipps-Universität Marburg, Germany. Previously, she worked with Elias Bareinboim as a postdoc in the Causal AI Lab at Columbia University, USA. Her research lies at the intersection of Computer Science, Statistics, and Artificial Intelligence in Healthcare. Her efforts are focused on advancing the theory of causal inference and learning for discovering, generalizing, and personalizing cause-effect relationships from multiple observational and experimental data collections. She has a particular interest in applications in the Health Sciences and has directed her research towards addressing challenges that emerge in such domains to help bridge the gap between theory and practical applications. <br />
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/devendra.jpg){: .align-left style="width:250px;"} [Devendra Singh Dhami](https://sites.google.com/view/devendradhami): Technical University of Darmstadt, hessian.AI <br />
+Devendra Singh Dhami is a DEPTH research group leader on Causality And neUro-Symbolic artificial intElligence (CAUSE), under The Hessian Center for Artificial Intelligence (hessian.AI) and TU Darmstadt. He is also a Postdoctoral Researcher under Prof. Dr. Kristian Kersting at TU Darmstadt in the Artificial Intelligence and Machine Learning Lab. He obtained his Ph.D. in Computer Science from University of Texas, Dallas (Advisor : Professor Sriraam Natarajan - StARLinG lab) with a focus on learning effective models from noisy, heterogeneous and multi-relational healthcare data.

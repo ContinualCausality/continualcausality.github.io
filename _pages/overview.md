@@ -20,13 +20,15 @@ classes: wide
 ## Bridge Program at AAAI 2023 - 7+8th February 2023
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/AAAI-23-banner.png){: .align-center style="width:1900px;"} 
 
+**Register at** [https://aaai.org/Conferences/AAAI-23/registration/](https://aaai.org/Conferences/AAAI-23/registration/) **to attend the Continual Causality Bridge in-person or for virtual participation**. Note that the bridge registration (tutorial/lab/bridge program registration) is separate from the later full conference technical program. When registering for the bridge, please select "Continual Causality" from the available options. 
+
 #### Bridge Overview
 We aim to bring together the fields of *continual learning* and *causality* in a [AAAI-23 bridge program](https://aaai.org/Conferences/AAAI-23/bridge-theme/) called *Continual Causality*. Both fields research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. Despite some recent interest in bringing the two fields together, it is currently unclear how causal models may describe continuous streams of data and, vice versa, for continual learning to exploit learned causal structure. 
 
 With this bridge program, we aim to take the first steps towards a unified treatment of these fields and to provide the space for learning, discussions, and to connect and build a diverse community. The activities range from traditional tutorials and software labs on the educational side, invited vision talks and contributed ones based on submitted position papers, to a panel and breakout discussions. All materials are publicly disseminated as a foundation for the community through this website, and the respectively discussed ideas, challenges and prospects will be aggregated to foster continued exchanges beyond AAAI-23. 
 
 * More in-depth information is provided in below paragraphs and the [bridge format section](http://www.continualcausality.org/format/). 
-* The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts.
+* The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts. 
 * Join our community on [Slack](https://join.slack.com/t/continualcausality/shared_invite/zt-1fwahodl3-7Z8xe_lzxj33qEbTs558kg)
 * Email info[at]continualcausality[dot]org for questions  
 
