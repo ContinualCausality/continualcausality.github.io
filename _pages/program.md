@@ -28,12 +28,11 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 10:30: Coffee break (30 min) 
 * 11:00: Tutorial on causality: [Adèle Helena Ribeiro](https://adele.github.io) & [Devendra Singh Dhami](https://sites.google.com/view/devendradhami) (90 min)
 * 12:30: Joint lunch (60 min) 
-* 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A (160 min)
+* 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A (160 min) with a coffee break inbetween talks (30 min) 
 	* [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
 	* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University 
 	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
-* 16:15: Coffee break (30 min)
 * 16:45: Panel discussion: moderated by [James Smith](https://jamessealesmith.github.io) (60 min)
 	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
@@ -56,8 +55,8 @@ All times are in Eastern Time Zone (EST, GMT-5)
   *Sriraam Natarajan, Kristian Kersting* 
 	* [Towards Causal Replay for Knowledge Rehearsal in Continual Learning](https://openreview.net/pdf?id=t6HPdtyIaXB)  
   *Nikhil Churamani, Jiaee Cheong, Sinan Kalkan, Hatice Gunes* 
-* 14:30: Poster session + coffee (60 min)
-* 15:30: Interactive community discussion on future challenges in smaller breakout groups (60 min) 
+* 14:30: Poster session (60 min)
+* 15:30: Interactive community discussion on future challenges in smaller breakout groups over coffee (60 min) 
 * 16:30: Collection of ideas from breakout session for future formats (30 min) 
 * 17:00: Concluding remarks 
 
