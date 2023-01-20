@@ -27,7 +27,7 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 9:00: Tutorial on continual learning: [Keiland Cooper](https://www.kwcooper.xyz) & [Martin Mundt](https://owll-lab.com) (90 min)
 * 10:30: Coffee break (30 min) 
 * 11:00: Tutorial on causality: [Adèle Helena Ribeiro](https://adele.github.io) & [Devendra Singh Dhami](https://sites.google.com/view/devendradhami) (90 min)
-* 12:30: Joint lunch (60 min) 
+* 12:30: Lunch break (60 min) 
 * 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A (160 min) with a coffee break inbetween talks (30 min) 
 	* [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
@@ -45,7 +45,7 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 9:00: Software lab on continual learning with [Avalanche](https://avalanche.continualai.org): [Antonio Carta](http://pages.di.unipi.it/carta/)(90 min)
 * 10:30 Coffee break (30 min)
 * 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & [Robert Osazuwa Ness](https://www.microsoft.com/en-us/research/people/robertness/) (90 min)
-* 12:30: Joint lunch (60 min)
+* 12:30: Lunch break (60 min)
 * 13:30: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
 	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy)  
   *Sanghyun Kim, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee* 
