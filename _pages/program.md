@@ -28,11 +28,12 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 10:30: Coffee break (30 min) 
 * 11:00: Tutorial on causality: [Adèle Helena Ribeiro](https://adele.github.io) & [Devendra Singh Dhami](https://sites.google.com/view/devendradhami) (90 min)
 * 12:30: Lunch break (60 min) 
-* 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A (160 min) with a coffee break in between talks (30 min) 
-	* [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
-	* [Christopher Kanan](https://chriskanan.com), University of Rochester
-	* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University 
-	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
+* 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A each (160 min) with a coffee break in between talks (30 min) 
+	* 13:30-14:10: [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
+	* 14:10-14:50: [Christopher Kanan](https://chriskanan.com), University of Rochester
+	* 14:50-15:30: [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University
+	* 15:30-16:00: Coffee break 
+	* 16:00-16:40: [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
 * 16:45: Panel discussion: moderated by [James Smith](https://jamessealesmith.github.io) (60 min)
 	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
