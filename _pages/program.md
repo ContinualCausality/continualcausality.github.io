@@ -47,7 +47,7 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 10:30 Coffee break (30 min)
 * 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & [Robert Osazuwa Ness](https://www.microsoft.com/en-us/research/people/robertness/) (90 min)
 * 12:30: Lunch break (60 min)
-* 13:30: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
+* 14:00: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
 	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy)  
   *Sanghyun Kim, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee* 
 	* [From IID to the Independent Mechanisms assumption in continual learning](https://openreview.net/pdf?id=qjh2DRM0JXh)   
@@ -56,10 +56,10 @@ All times are in Eastern Time Zone (EST, GMT-5)
   *Sriraam Natarajan, Kristian Kersting* 
 	* [Towards Causal Replay for Knowledge Rehearsal in Continual Learning](https://openreview.net/pdf?id=t6HPdtyIaXB)  
   *Nikhil Churamani, Jiaee Cheong, Sinan Kalkan, Hatice Gunes* 
-* 14:30: Poster session (60 min)
-* 15:30: Interactive community discussion on future challenges in smaller breakout groups over coffee (60 min) 
-* 16:30: Collection of ideas from breakout session for future formats (30 min) 
-* 17:00: Concluding remarks 
+* 15:00: Poster session (60 min) with coffee
+* 16:00: Interactive community discussion on future challenges in smaller breakout groups(60 min) 
+* 17:00: Collection of ideas from breakout session for future formats (30 min) 
+* 17:30: Concluding remarks 
 
 ## Vision Speakers 
 
