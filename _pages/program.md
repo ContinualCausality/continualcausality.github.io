@@ -45,7 +45,7 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 8:55: Short opening (5 min)
 * 9:00: Software lab on continual learning with [Avalanche](https://avalanche.continualai.org): [Antonio Carta](http://pages.di.unipi.it/carta/)(90 min)
 * 10:30 Coffee break (30 min)
-* 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & [Robert Osazuwa Ness](https://www.microsoft.com/en-us/research/people/robertness/) (90 min)
+* 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & Patrick Blöbaum (90 min)
 * 12:30: Lunch break (60 min)
 * 14:00: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
 	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy)  
@@ -93,7 +93,7 @@ Antonio Carta is an Assistant Professor at the University of Pisa and a member o
 <br />
 <br />
 
-##### Causality with DoWhy - Peter Götz & Robert Osazuwa Ness 
+##### Causality with DoWhy - Peter Götz & Patrick Blöbaum
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dowhy.png){: .align-left style="width:250px;"} [DoWhy](https://py-why.github.io/dowhy): is a Python library that aims to spark causal thinking and analysis, as part of the larger [PyWhy](https://www.pywhy.org) ecosystem. DoWhy provides a principled four-step interface for causal inference that focuses on explicitly modeling causal assumptions and validating them as much as possible. The key feature of DoWhy is its state-of-the-art refutation API that can automatically test causal assumptions for any estimation method, thus making inference more robust and accessible to non-experts. DoWhy supports estimation of the average causal effect for backdoor, frontdoor, instrumental variable and other identification methods, and estimation of the conditional effect (CATE) through an integration with the EconML library. DoWhy has over 5000 stars on Github and more than 700 forks. <br />
 
@@ -104,9 +104,9 @@ Peter Götz is a Senior Software Development Engineer at Amazon Web Services, wh
 <br />
 <br />
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/robert.jpg){: .align-left style="width:250px;"} [Robert Osazuwa Ness](https://www.microsoft.com/en-us/research/people/robertness/): Microsoft Research <br />
-Robert Osazuwa Ness is a researcher at Microsoft Research and author of the book Causal Machine Learning. He co-leads the development of MSR’s causal machine learning platform and conducts research into probabilistic models for advanced causal reasoning. He has previously worked as a machine learning engineer. He attended graduate school at both Johns Hopkins SAIS (Hopkins-Nanjing Center) and Purdue University. He received his Ph.D. in Statistics from Purdue, where his dissertation research focused on Bayesian active learning models for causal discovery. <br />
-<br />
+*Unfortunately, Robert Osazuwa Ness was hindered from holding the software lab just prior to the conference due to unforseen circumstances. Patrik Blöbaum will handle the second part of the software lab instead.*
+
+Patrick Blöbaum is a Senior Applied Scientist at AWS working on problems in Causal Inference and a core contributor to the open-source library DoWhy. Prior to working at AWS, he got his PhD degree in the area of causality focusing on graphical causal models. His research interests include topics such as root cause analysis and causal discovery.
 
 
 ## Panelists 
