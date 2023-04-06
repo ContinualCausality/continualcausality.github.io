@@ -48,13 +48,13 @@ All times are in Eastern Time Zone (EST, GMT-5)
 * 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & Patrick Blöbaum (90 min)
 * 12:30: Lunch break (60 min)
 * 14:00: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
-	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Kim.pdf)
+	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Kim.pdf)   
   *Sanghyun Kim, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee* 
-	* [From IID to the Independent Mechanisms assumption in continual learning](https://openreview.net/pdf?id=qjh2DRM0JXh) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Ostapenko.pdf)
+	* [From IID to the Independent Mechanisms assumption in continual learning](https://openreview.net/pdf?id=qjh2DRM0JXh) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Ostapenko.pdf)  
   *Oleksiy Ostapenko, Alexandre Lacoste, Laurent Charlin*
-	* [Never Ending Reasoning and Learning: Opportunities and Challenges](https://openreview.net/pdf?id=vhQsMW7L60) 
-  *Sriraam Natarajan, Kristian Kersting* 
-	* [Towards Causal Replay for Knowledge Rehearsal in Continual Learning](https://openreview.net/pdf?id=t6HPdtyIaXB) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Churamani_Cheong.pdf)
+	* [Never Ending Reasoning and Learning: Opportunities and Challenges](https://openreview.net/pdf?id=vhQsMW7L60)  
+  *Sriraam Natarajan, Kristian Kersting*  
+	* [Towards Causal Replay for Knowledge Rehearsal in Continual Learning](https://openreview.net/pdf?id=t6HPdtyIaXB) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Churamani_Cheong.pdf)  
   *Nikhil Churamani, Jiaee Cheong, Sinan Kalkan, Hatice Gunes* 
 * 15:00: Poster session (60 min) with coffee
 * 16:00: Interactive community discussion on future challenges in smaller breakout groups(60 min) 
