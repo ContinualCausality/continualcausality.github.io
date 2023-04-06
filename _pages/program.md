@@ -24,16 +24,16 @@ All times are in Eastern Time Zone (EST, GMT-5)
 #### Day 1 (February 7th)
 
 * 8:45: Bridge kickoff (15 min)
-* 9:00: Tutorial on continual learning: [Keiland Cooper](https://www.kwcooper.xyz) & [Martin Mundt](https://owll-lab.com) (90 min)
+* 9:00: Tutorial on continual learning: [Keiland Cooper](https://www.kwcooper.xyz) & [Martin Mundt](https://owll-lab.com) (90 min) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Tutorial_Continual.pdf)
 * 10:30: Coffee break (30 min) 
-* 11:00: Tutorial on causality: [Adèle Helena Ribeiro](https://adele.github.io) & [Devendra Singh Dhami](https://sites.google.com/view/devendradhami) (90 min)
+* 11:00: Tutorial on causality: [Adèle Helena Ribeiro](https://adele.github.io) & [Devendra Singh Dhami](https://sites.google.com/view/devendradhami) (90 min) - [Slides Part 1](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Tutorial_Causality_Part1.pdf) & [Slides Part 2](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Tutorial_Causality_Part2.pdf)
 * 12:30: Lunch break (60 min) 
 * 13:30: Invited vision talks on the bridge's interface, 4 x 30 min + 10 minute Q&A each (160 min) with a coffee break in between talks (30 min) 
-	* 13:30-14:10: [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI 
-	* 14:10-14:50: [Christopher Kanan](https://chriskanan.com), University of Rochester
-	* 14:50-15:30: [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University
+	* 13:30-14:10: [Yejin Choi](https://homes.cs.washington.edu/~yejin/), University of Washington, Allen Institute for AI - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/YejinChoi.pdf)
+	* 14:10-14:50: [Christopher Kanan](https://chriskanan.com), University of Rochester - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Kanan.pdf)
+	* 14:50-15:30: [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), Stanford University - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Gerstenberg.pdf)
 	* 15:30-16:00: Coffee break 
-	* 16:00-16:40: [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
+	* 16:00-16:40: [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Balasubramanian.pdf)
 * 16:45: Panel discussion: moderated by [James Smith](https://jamessealesmith.github.io) (60 min)
 	* [Vineeth N Balasubramanian](https://iith.ac.in/~vineethnb/) - IIT Hyderabad, Visiting Faculty Fellow Carnegie Mellon University
 	* [Christopher Kanan](https://chriskanan.com), University of Rochester
@@ -43,18 +43,18 @@ All times are in Eastern Time Zone (EST, GMT-5)
 
 #### Day 2 (February 8th) 
 * 8:55: Short opening (5 min)
-* 9:00: Software lab on continual learning with [Avalanche](https://avalanche.continualai.org): [Antonio Carta](http://pages.di.unipi.it/carta/)(90 min)
+* 9:00: Software lab on continual learning with [Avalanche](https://avalanche.continualai.org): [Antonio Carta](http://pages.di.unipi.it/carta/) (90 min) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Carta.pdf)
 * 10:30 Coffee break (30 min)
 * 11:00: Software lab on causality with [DoWhy](https://py-why.github.io/dowhy): [Peter Götz](https://www.linkedin.com/in/petergtz/) & Patrick Blöbaum (90 min)
 * 12:30: Lunch break (60 min)
 * 14:00: 4 x 10 min invited contributed talks of accepted position papers + 5 min Q&A each (60min)	
-	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy)  
+	* [Modeling Uplift from Observational Time-Series in Continual Scenarios](https://openreview.net/pdf?id=pKyB5wMnTiy) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Kim.pdf)
   *Sanghyun Kim, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee* 
-	* [From IID to the Independent Mechanisms assumption in continual learning](https://openreview.net/pdf?id=qjh2DRM0JXh)   
+	* [From IID to the Independent Mechanisms assumption in continual learning](https://openreview.net/pdf?id=qjh2DRM0JXh) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Ostapenko.pdf)
   *Oleksiy Ostapenko, Alexandre Lacoste, Laurent Charlin*
-	* [Never Ending Reasoning and Learning: Opportunities and Challenges](https://openreview.net/pdf?id=vhQsMW7L60)  
+	* [Never Ending Reasoning and Learning: Opportunities and Challenges](https://openreview.net/pdf?id=vhQsMW7L60) 
   *Sriraam Natarajan, Kristian Kersting* 
-	* [Towards Causal Replay for Knowledge Rehearsal in Continual Learning](https://openreview.net/pdf?id=t6HPdtyIaXB)  
+	* [Towards Causal Replay for Knowledge Rehearsal in Continual Learning](https://openreview.net/pdf?id=t6HPdtyIaXB) - [Slides](https://github.com/ContinualCausality/continualcausality.github.io/raw/main/assets/materials/Churamani_Cheong.pdf)
   *Nikhil Churamani, Jiaee Cheong, Sinan Kalkan, Hatice Gunes* 
 * 15:00: Poster session (60 min) with coffee
 * 16:00: Interactive community discussion on future challenges in smaller breakout groups(60 min) 
