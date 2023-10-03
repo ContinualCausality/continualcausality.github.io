@@ -47,13 +47,13 @@ Junior Research Group Leader  | Research Scientist | PhD Student | PhD Candidat
 TU Darmstadt & hessian.AI | NAVER Labs Europe | Georgia Tech | University of California
 
 
-<a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a> |  <a href="https://adele.github.io">Adèle Helena Ribeiro</a> | <a href="https://alexisbellot.github.io/Website/">Alexis Bellot</a>
+<a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a> |  <a href="https://adele.github.io">Adèle Helena Ribeiro</a> | <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjeku2ahtqBAxUYI0QIHRzUD0YQFnoECBYQAQ&url=https%3A%2F%2Fde.linkedin.com%2Fin%2Frebecca-herman&usg=AOvVaw01_2afPQu3_DM08kgo1AD2&opi=89978449">Rebecca Herman</a>
 :-------------------------:|:-------------------------:|:-------------------------:
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/devendra.jpg){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/adele.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/alexis.jpg){: .align-center style="width:150px;"} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/devendra.jpg){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/adele.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Rebecca.jpeg){: .align-center style="width:150px;"} 
 :-------------------------:|:-------------------------:|:-------------------------:
 Junior Research Group Leader  | Postdoctoral Researcher | Research Scientist
 :-------------------------:|:-------------------------:|:-------------------------: 
-TU Darmstadt & hessian.AI | University of Marburg | DeepMind
+TU Darmstadt & hessian.AI | University of Marburg | Deutches Zentrum fur Luft-und Raumfahrt
 
 # Advisors
 
