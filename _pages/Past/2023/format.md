@@ -1,5 +1,5 @@
 ---
-permalink: /format/
+permalink: /23/format/
 title: "Bridge Format"
 layout: splash
 classes: wide
@@ -7,10 +7,12 @@ classes: wide
 
 # Bridge Format
 
+**This page is archived from the 2023 event. Please see the home page for up-to-date information**
+
 #### Elements and Activities
 
 As a *two-day event* (see detailed timeline in the [program tab](http://www.continualcausality.org/program/)), our bridge offers a varied set of activities that support education and discussion at various levels of expertise. 
-Educational activities involve two traditional tutorials, as an entry to the respective fields of continual learning and causality, for both newcomers and experts that are only familiar with either of them. Similarly, real-world application sessions will provide practical applications for researchers to build on and discuss opportunities. The latter follow as a result of discussions, panel, and breakouts from last year's event concluding that first practical applications are a natural next step for the bridge's community. 
+Educational activities involve two traditional tutorials, as an entry to the respective fields of continual learning and causality, for both newcomers and experts that are only familiar with either of them. Similarly, two software labs will provide respective hands-on experience on the practical level, derived off the popular emerging software tools [Avalanche](https://avalanche.continualai.org) and [DoWhy](https://py-why.github.io/dowhy). 
 
 Following these educational activities, a set of vision talks on each day will provide positions on how the fields of continual learning and causality can be brought further together, why a necessity for the latter exists, and what respective challenges may need to be faced in the imminent future. The first of these sets intends to leverage the expertise of researchers with an increased level of seniority, who will exploit their broad expertise towards first attempts at a more integrated vision. The second set will include contributed talks, based on the bridge's call for contributions of two-page position papers by the community, which will be accepted on the grounds of a peer-review process. Apart from a general poster session, a select set of papers with exceptional level of clarity will be invited to share their views. 
 

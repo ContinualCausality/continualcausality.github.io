@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: ./
   - title: "Bridge Format"
     url: /format/
   - title: "Call For Participation"
@@ -11,3 +9,5 @@ main:
     url: /program/
   - title: "Organizers"
     url: /organizers/
+  - title: "Past Programs"
+    url: /Past/
