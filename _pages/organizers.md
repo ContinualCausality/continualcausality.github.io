@@ -36,7 +36,7 @@ classes: wide
 
 
 # Organizers
-Our seven organizers represent a balanced expertise with a focus on continual learning and causality. Martin, Tyler, James and Keiland are board members of the [ContinualAI](https://www.continualai.org) non-profit organization. Devendra, Adèle and Alexis feature the complementary required expertise in causality. 
+Our seven organizers represent a balanced expertise with a focus on continual learning and causality. Martin, Tyler, James and Keiland are board members of the [ContinualAI](https://www.continualai.org) non-profit organization. Devendra, Adèle and Rebecca feature the complementary required expertise in causality. 
 
 <a href="http://owll-lab.com">Martin Mundt</a> |  <a href="https://tyler-hayes.github.io">Tyler Hayes</a> | <a href="https://jamessealesmith.github.io">James Smith</a> | <a href="https://www.kwcooper.xyz">Keiland Cooper</a>
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
