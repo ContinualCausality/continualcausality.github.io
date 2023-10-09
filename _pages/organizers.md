@@ -42,7 +42,7 @@ Our seven organizers represent a balanced expertise with a focus on continual le
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tyler.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/james.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/keiland.jpg){: .align-center style="width:150px;"}
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-Junior Research Group Leader  | Research Scientist | PhD Student | PhD Candidate
+Independent Research Group Leader  | Research Scientist | PhD Candidate | PhD Candidate
 :-------------------------:|:-------------------------:|:-------------------------: 
 TU Darmstadt & hessian.AI | NAVER Labs Europe | Georgia Tech | University of California
 
@@ -51,21 +51,9 @@ TU Darmstadt & hessian.AI | NAVER Labs Europe | Georgia Tech | University of Ca
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/devendra.jpg){: .align-center style="width:150px;"}  |  ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/adele.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Rebecca.jpeg){: .align-center style="width:150px;"} 
 :-------------------------:|:-------------------------:|:-------------------------:
-Junior Research Group Leader  | Postdoctoral Researcher | Research Scientist
+Assistant Professor  | Postdoctoral Researcher | Research Scientist
 :-------------------------:|:-------------------------:|:-------------------------: 
-TU Darmstadt & hessian.AI | University of Marburg | Deutches Zentrum fur Luft-und Raumfahrt
-
-# Advisors
-
-Continual Causality is further supported by six bridge advisors. 
-
-<a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> | <a href="https://cicl.stanford.edu/member/tobias_gerstenberg/">Tobias Gerstenberg</a> | <a href="https://chriskanan.com">Christopher Kanan</a> | <a href="https://ml-research.github.io/people/kkersting/">Kristian Kersting</a> | <a href="https://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> | <a href="https://sites.google.com/view/razp">Razvan Pascanu</a>
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/diyi.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tobias.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/christopher.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kristian.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martha.jpg){: .align-center style="width:150px;"} | ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/razvan.jpg){: .align-center style="width:150px;"}
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-Assistant Professor | Assistant Professor | Associate Professor | Full Professor | Associate Professor | Research Scientist
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-Stanford University | Stanford University | University of Rochester | TU Darmstadt, hessian.AI | University of Alberta, Amii | DeepMind  
+TU Eindhoven & hessian.AI | University of Marburg | Deutches Zentrum fur Luft-und Raumfahrt
 
 
 
