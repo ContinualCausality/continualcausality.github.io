@@ -9,7 +9,7 @@ classes: wide
 
 > Submission deadline: 24th November 2022, Anywhere On Earth (AoE)</s>. Submission will be handled through OpenReview
 
-> Notifications: 5th December 2022
+> Notifications: 11th December 2022
 
 > Bridge: 20-21st February 2023
  
