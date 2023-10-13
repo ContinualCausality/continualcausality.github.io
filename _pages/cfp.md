@@ -7,11 +7,11 @@ classes: wide
 
 # Call for Participation
 
-> Submission deadline: 24th November 2022, Anywhere On Earth (AoE)</s>. Submission will be handled through OpenReview
+> Submission deadline: 24th November 2023, Anywhere On Earth (AoE). Submission will be handled through OpenReview
 
-> Notifications: 11th December 2022
+> Notifications: 11th December 2023
 
-> Bridge: 20-21st February 2023
+> Bridge: 20-21st February 2024
  
  
 The fields of **causality** and **continual learning** research complementary aspects of human cognition and are
