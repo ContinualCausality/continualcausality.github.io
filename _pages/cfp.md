@@ -7,7 +7,7 @@ classes: wide
 
 # Call for Participation
 
-> Submission deadline: 24th November 2023, Anywhere On Earth (AoE). Submission will be handled through OpenReview
+> Submission deadline: 24th November 2023, Anywhere On Earth (AoE). Submission will be handled through OpenReview: [https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge](https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge)
 
 > Notifications: 11th December 2023
 
@@ -34,7 +34,7 @@ To this end, the Continual Causality Bridge invites submissions that present eit
 of how to link the two fields, outline challenges that need to be overcome, highlight synergies, and propose
 tangible future steps or discuss first practical approaches and solutions to relevant problems. **Submissions of all
 papers should be up to four pages (excluding references, and without appendices) in the AAAI format. The
-submission deadline is November 24, 2023 (AOE).** All submissions will be managed through OpenReview and
+submission deadline is November 24, 2023 (AOE).** All submissions will be managed through [OpenReview](https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge) and
 will later be collected in a Proceedings of Machine Learning Research (PMLR) volume.
 
 
