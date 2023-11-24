@@ -7,9 +7,9 @@ classes: wide
 
 # Call for Participation
 
-> Submission deadline: 24th November 2023, Anywhere On Earth (AoE). Submission will be handled through OpenReview: [https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge](https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge)
+> Submission deadline: Extended: Dec 3rd ~~24th November 2023~~, Anywhere On Earth (AoE). Submission will be handled through OpenReview: [https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge](https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge)
 
-> Notifications: 11th December 2023
+> Notifications: 20th December 2023
 
 > Bridge: 20-21st February 2024
  
