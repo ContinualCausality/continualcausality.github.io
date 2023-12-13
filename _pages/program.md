@@ -21,7 +21,7 @@ The tentative program can be found below and information on confirmed invited sp
 
 All times are in Pacific Standard Time (PST, GMT-8)
 
-#### Day 1 (February 7th)
+#### Day 1 (February 20th)
 
 * 8:45: Bridge kickoff - Organizers (15 min)
 * 9:00: Tutorial on continual learning (75 min) 
@@ -35,7 +35,7 @@ All times are in Pacific Standard Time (PST, GMT-8)
 * 16:00-16:30: Coffee break (30 min)
 * 16:30: Panel discussion - Invited day 1 and 2 speakers (90 min)
 
-#### Day 2 (February 8th) 
+#### Day 2 (February 21st) 
 * 8:55: Short opening (5 min)
 * 9:00: Continual Causality Applications with emphasis on continual learning - to be announced soon (75 min)
 * 10:15 Coffee break (30 min)
