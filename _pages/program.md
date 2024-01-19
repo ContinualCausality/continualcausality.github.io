@@ -26,7 +26,7 @@ All times are in Pacific Standard Time (PST, GMT-8)
 * 9:00: Bridge kickoff - Organizers (15 min)
 * 9:15: Tutorial on continual learning (75 min) 
 * 10:30: Coffee break - coffee provided by the conference (30 min) 
-* 11:00: Tutorial on causality (75 min)
+* 11:00: Tutorial on causality: [Matej Zečević](https://www.matej-zecevic.de) - Technical University of Darmstadt (75 min)
 * 12:15: Lunch break - on your own, no lunch provided (95 min) 
 * 13:50: Invited vision talks on the bridge's interface, 3 x 40 min + 10 minute Q&A each (150 min) + 30 min coffee break in between
 	* 13:50-14:40: [Martha White](https://webdocs.cs.ualberta.ca/~whitem/), University of Alberta & Alberta Machine Intelligence Institute (Amii)
@@ -66,5 +66,19 @@ Elina Robeva is an Assistant Professor at the Department of Mathematics in the U
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/efstratios.jpg){: .align-left style="width:250px;"}
 [Efstratios Gavves](https://ivi.fnwi.uva.nl/vislab/author/efstratios-gavves/) - University of Amsterdam (UVA) <br />
-Efstratios Gavves is an Associate Professor with the University of Amsterdam in the Netherlands and Scientific Director of the QUVA Deep Vision Lab. He is a recipient of the prestigious ERC Career Starting Grant 2020 to research on the Computational Learning of Temporality for spatiotemporal sequences. Also, he is a co-founder of Ellogon.AI, a University spinoff and in collaboration with the Dutch Cancer Institute (NKI), with the mission of using AI for pathology and genomics. His research focuses on Causal Computer Vision, specifically how we can achieve Embodied General Intelligence and eventually Cyberphysical AI. 
+Efstratios Gavves is an Associate Professor with the University of Amsterdam in the Netherlands and Scientific Director of the QUVA Deep Vision Lab. He is a recipient of the prestigious ERC Career Starting Grant 2020 to research on the Computational Learning of Temporality for spatiotemporal sequences. Also, he is a co-founder of Ellogon.AI, a University spinoff and in collaboration with the Dutch Cancer Institute (NKI), with the mission of using AI for pathology and genomics. His research focuses on Causal Computer Vision, specifically how we can achieve Embodied General Intelligence and eventually Cyberphysical AI. <br />
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Rebecca.jpeg){: .align-left style="width:250px;"}
+[Rebecca Herman](https://climateinformaticslab.com/about/) - German Aerospace Center (DLR) <br />
+Rebecca Herman is a postdoctoral research scientist at the German Aerospace Center (DLR). She studied climate science and monsoon rainfall during her PhD, and her search for meaningful attribution techniques in the face of limited observational and experimental data led her to the study of causal inference. She is now working on the CausalEarth project with Jakob Runge, focusing on algorithm improvement and effective use of causal inference techniques on time-series climate data. <br />
+
+
+
+## Tutorials 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/matej.png){: .align-left style="width:250px;"}
+[Matej Zečević](https://www.matej-zecevic.de) - Technical University of Darmstadt <br />
+Matej Zečević is a Ph.D. candidate at the AI/ML lab at TU Darmstadt working with Prof. Kristian Kersting. His research is centered around the integration of causality with AI/ML. As of 2023, Matej has been lecturing causality at university during regular terms, but also in the form of a one-week crash course at the European Summer School for AI (ESSAI). Further, he has held several talks and coding sessions on causality at the International Summer School on Data Science (SDSS) 2022, the Eastern European Machine Learning Summer School (EEML) 2022, the Serbian Machine Learning Workshop (SMLW) 2022, and various reading/discussion groups such as the Chinese Causal Science Community (CCCS) or Learning on Graphs Reading Group (LoGaG). Additionally, he was the core organizer at the NeurIPS 2022 Workshop on neuro Causal and Symbolic AI (nCSI), while also organizing this year's AAAI 2024 Workshop on Large Language Models and Reasoning (LLM-CP). In 2022, Matej also founded the weekly, online Causality Discussion Group (CDG) with over 600 members as of today. <br />
+
 
