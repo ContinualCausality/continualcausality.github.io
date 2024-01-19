@@ -37,7 +37,7 @@ All times are in Pacific Standard Time (PST, GMT-8)
 
 #### Day 2 (February 21st) 
 * 9:10: Short opening (5 min)
-* 9:15: Continual Causality Applications - [Rebecca Herman](https://climateinformaticslab.com/about/), Deutsches Zentrum fuer Luft- und Raumfahrt (DLR) (75 min)
+* 9:15: Continual Causality Applications - [Rebecca Herman](https://climateinformaticslab.com/about/), German Aerospace Center (DLR) (75 min)
 * 10:30 Coffee break (30 min)
 * 11:00: Continual Causality Applications - [Efstratios Gavves](https://www.egavves.com/), University of Amsterdam (UVA) (75 min)
 * 12:15: Lunch break (105 min)
