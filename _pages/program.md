@@ -24,9 +24,9 @@ All times are in Pacific Standard Time (PST, GMT-8)
 #### Day 1 (February 20th)
 
 * 9:00: Bridge kickoff - Organizers (15 min)
-* 9:15: Tutorial on continual learning (75 min) 
+* 9:15: Tutorial part 1 - continual learning: [Martin Mundt](https://owll-lab.com) - Technical University of Darmstadt & hessian.AI (75 min) 
 * 10:30: Coffee break - coffee provided by the conference (30 min) 
-* 11:00: Tutorial on causality: [Matej Zečević](https://www.matej-zecevic.de) - Technical University of Darmstadt (75 min)
+* 11:00: Tutorial part 2 - causality: [Matej Zečević](https://www.matej-zecevic.de) - Technical University of Darmstadt (75 min)
 * 12:15: Lunch break - on your own, no lunch provided (95 min) 
 * 13:50: Invited vision talks on the bridge's interface, 3 x 40 min + 10 minute Q&A each (150 min) + 30 min coffee break in between
 	* 13:50-14:40: [Martha White](https://webdocs.cs.ualberta.ca/~whitem/), University of Alberta & Alberta Machine Intelligence Institute (Amii)
@@ -76,6 +76,10 @@ Rebecca Herman is a postdoctoral research scientist at the German Aerospace Cent
 
 
 ## Tutorials 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.jpg){: .align-left style="width:250px;"}
+[Martin Mundt](https://owll-lab.com) - Technical University of Darmstadt, hessian.AI <br />
+Martin Mundt leads the Open World Lifelong Learning lab as an independent research group leader at the Hessian Center for Artificial Intelligence (hessian.AI) and visiting professor at the Technical University of Darmstadt (TU Darmstadt). He is also a board member of directors at the non-profit organization ContinualAI, organizer at Queer in AI, and currently serves as diversity and inclusion chair for AAAI-24 and review process chair for CoLLAs-24. Previously, he has received an M.Sc. in physics (2015) and obtained a PhD in computer science (2021) from Goethe University with distinction and thesis award. The main vision behind Martin’s research is to enable adaptive, robust and sustainable intelligent systems. These lifelong learners are able to behave robustly in novel situations and efficiently include novel experiences, thus providing a sustainable foundation to AI systems for and with humans.  <br />
+
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/matej.png){: .align-left style="width:250px;"}
 [Matej Zečević](https://www.matej-zecevic.de) - Technical University of Darmstadt <br />
