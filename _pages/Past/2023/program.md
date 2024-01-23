@@ -143,7 +143,7 @@ Keiland Cooper is a National Science Foundation Fellow and Ph.D. candidate at th
 <br />
 <br />
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.png){: .align-left style="width:250px;"} [Martin Mundt](https://owll-lab.com): Technical University of Darmstadt, hessian.AI, ContinualAI <br />
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/martin.jpg){: .align-left style="width:250px;"} [Martin Mundt](https://owll-lab.com): Technical University of Darmstadt, hessian.AI, ContinualAI <br />
 Martin Mundt (he/him) is a junior research group leader at the Technical University of Darmstadt (TU Darmstadt) and the Hessian Center for Artificial Intelligence (hessian.AI), where he leads the Open World Lifelong Learning (OWLL) lab. He is also a board member of directors at the non-profit organization ContinualAI. Previously, he has obtained a PhD degree in computer science and an M.Sc. in physics from Goethe University. The main vision behind OWLL is to develop systems that are not only able to learn continuously, but also successfully recognize new situations and actively choose data to train on, while autonomously adapting in a robust and interpretable way. 
 <br />
 
