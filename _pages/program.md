@@ -41,11 +41,16 @@ All times are in Pacific Standard Time (PST, GMT-8)
 * 10:30 Coffee break (30 min)
 * 11:00: Continual Causality Applications - [Efstratios Gavves](https://www.egavves.com/), University of Amsterdam (UVA) (75 min)
 * 12:15: Lunch break (105 min)
-* 14:00: Invited contributed talks of accepted papers (30min)
-* 14:30: Interactive community discussion on future challenges in smaller breakout groups (60 min) 
-* 15:30: Coffee break (with continued community diuscussion) (30 min)
-* 16:00: Continued breakout discussions and collection of ideas from breakout session for future formats (60 min) 
-* 17:00: Concluding remarks
+* 14:00: Invited contributed talks, 4 x 20 mins + Q/A (90min)
+	* *"Identification of Causal Structure with Latent Variables Based on Higher Order Cumulants"* - Wei Chen, Zhiyi Huang, Ruichu Cai, Zhifeng Hao, Kun Zhang - AAAI-24 main conference paper
+	* *"Neural Causal Abstractions"* - Kevin Xia, Elias Bareinboim - AAAI-24 main conference paper
+	* *"An Information Theoretic Framework for Continual Learning of Causal Networks"* - Osman Ali Mian, Sarah Mameche - Continual Causality Bridge Oral
+	* *"Causality in Flux: Continual Adaptation of Causal Knowledge via Evidence Matching"* - Florian Peter Busch, Jonas Seng, Kristian Kersting - Continual Causality Bridge Oral
+
+* 15:30: Coffee break (30 min)
+* 16:00: Interactive community discussion on future challenges in smaller breakout groups (60 min) 
+* 17:00: Summary of breakour groups (30 mins)
+* 17:30: Concluding remarks
 
 ## Invited Speakers
 
