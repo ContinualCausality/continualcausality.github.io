@@ -20,7 +20,9 @@ classes: wide
 ## 2nd Bridge Program at AAAI 2024: 20+21st February 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
 
-**Continual Causality is back for round 2!**
+**Continual Causality is back for round 2 - proudly sponsored by [hessian.AI](https://hessian.ai), who financially supports our invited speakers!**
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/hessian-ai-logo.png){: .align-center style="width:1900px;"} 
 
 #### Bridge Overview
 We aim to bring together the fields of *continual learning* and *causality* in a [AAAI-24 bridge program](https://aaai.org/aaai-conference/aaai-24-bridge-program/) called *Continual Causality*. Both fields research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. Despite some recent interest in bringing the two fields together, including our AAAI-23 bridge program of the same title, it is currently unclear how causal models may describe continuous streams of data and, vice versa, for continual learning to exploit learned causal structure. 
