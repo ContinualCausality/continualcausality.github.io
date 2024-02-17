@@ -29,6 +29,8 @@ remote_theme: mmistakes/minimal-mistakes
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # KC- this may resolve build warnings... 
 github: [metadata]
+repository: ContinualCausality/continualcausality.github.io/
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
