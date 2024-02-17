@@ -30,11 +30,11 @@ All times are in Pacific Standard Time (PST, GMT-8)
 * 12:15: Lunch break - on your own, no lunch provided (95 min) 
 * 13:50: Invited vision talks on the bridge's interface, 3 x 40 min + 10 minute Q&A each (150 min) + 30 min coffee break in between
 	* 13:50-14:40: [Martha White](https://webdocs.cs.ualberta.ca/~whitem/), University of Alberta & Alberta Machine Intelligence Institute (Amii)
-		* Partial Models in Online Reinforcement Learning: Can Causality Help?
+		* "Partial Models in Online Reinforcement Learning: Can Causality Help?"
 	* 14:40-15:30: [Jorge Mendez-Mendez](https://jorge-a-mendez.github.io/), Massachusetts Institute of Technology (MIT)
 	* 15:30-16:00: Coffee break - coffee provided by the conference
 	* 16:00-16:50: [Elina Robeva](https://personal.math.ubc.ca/~erobeva/), University of British Columbia (UBC)
-		* Learning causal models via algebraic constraints
+		* "Learning causal models via algebraic constraints"
 * 16:50: Panel discussion - Invited day 1 and 2 speakers (70 min)
 
 #### Day 2 (February 21st) 
