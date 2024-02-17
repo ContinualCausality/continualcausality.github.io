@@ -21,7 +21,7 @@ classes: wide
 
 
 ## Bridge Program at AAAI 2023 - 7+8th February 2023
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/AAAI-23-banner.png){: .align-center style="width:1900px;"} 
+![image-center]( /assets/images/AAAI-23-banner.png){: .align-center style="width:1900px;"} 
 
 **We thank everyone for their participation in the 2023 inaugural Continual Causality Bridge. All available materials and link to PMLR paper proceedings are now updated on this website in their respective tabs. We are looking forward to seeing you all at future folow-up events!**
 
