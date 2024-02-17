@@ -18,7 +18,7 @@ classes: wide
 # Continual Causality
 
 ## 2nd Bridge Program at AAAI 2024: 20+21st February 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
+![image-center](/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
 
 **Continual Causality is back for round 2 - proudly sponsored by [hessian.AI](https://hessian.ai), who financially supports our invited speakers!**
 
