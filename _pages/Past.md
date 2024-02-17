@@ -23,10 +23,10 @@ classes: wide
 
 **We thank everyone for their participation in the 2023 inaugural Continual Causality Bridge. All available materials and link to PMLR paper proceedings are now updated on this website in links below. We are looking forward to seeing you all at future folow-up events!**
 
-- [2023 Organizers](Past/2023/organizers/)
-- [2023 Papers](Past/2023/papers)
-- [2023 Program](Past/2023/program)
-- [2023 Overview](Past/2023/overview/)
+- [2023 Organizers](previous/2023/organizers/)
+- [2023 Papers](previous/2023/papers)
+- [2023 Program](previous/2023/program)
+- [2023 Overview](previous/2023/overview/)
 
 
 
