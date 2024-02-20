@@ -27,6 +27,7 @@ All times are in Pacific Standard Time (PST, GMT-8)
 * 9:15: Tutorial part 1 - continual learning: [Martin Mundt](https://owll-lab.com) - Technical University of Darmstadt & hessian.AI (75 min) 
 * 10:30: Coffee break - coffee provided by the conference (30 min) 
 * 11:00: Tutorial part 2 - causality: [Matej Zečević](https://www.matej-zecevic.de) - Technical University of Darmstadt (75 min)
+	* Link to GitHub Repository to tag along the Causality Code Tutorial: [https://github.com/ContinualCausality/Causality-Tutorial](https://github.com/ContinualCausality/Causality-Tutorial)
 * 12:15: Lunch break - on your own, no lunch provided (95 min) 
 * 13:50: Invited vision talks on the bridge's interface, 3 x 40 min + 10 minute Q&A each (150 min) + 30 min coffee break in between
 	* 13:50-14:40: [Martha White](https://webdocs.cs.ualberta.ca/~whitem/), University of Alberta & Alberta Machine Intelligence Institute (Amii)
