@@ -18,11 +18,11 @@ classes: wide
 # Continual Causality
 
 ## 2nd Bridge Program at AAAI 2024: 20+21st February 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
+![image-center](/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
 
 **Continual Causality is back for round 2 - proudly sponsored by [hessian.AI](https://hessian.ai), who financially supports our invited speakers!**
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/hessian-ai-logo.png){: .align-center style="width:1900px;"} 
+![image-center](assets/images/hessian-ai-logo.png){: .align-center style="width:1900px;"} 
 
 #### Bridge Overview
 We aim to bring together the fields of *continual learning* and *causality* in a [AAAI-24 bridge program](https://aaai.org/aaai-conference/aaai-24-bridge-program/) called *Continual Causality*. Both fields research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. Despite some recent interest in bringing the two fields together, including our AAAI-23 bridge program of the same title, it is currently unclear how causal models may describe continuous streams of data and, vice versa, for continual learning to exploit learned causal structure. 
@@ -45,7 +45,7 @@ aggregated to foster continued exchanges beyond AAAI-24
 
 For a machine learning agent to successfully learn in natural settings it has to accommodate often non-linear emergent dynamics from a sea of apparent stochasticity. The last decade has seen spectacular progress in these settings, surpassing human performance across a host of complex tasks. However, it is not only essential to these problems to identify the dependence between variables in observational data and their dynamics, but it is also essential to understand their underlying causation and how their dependencies arise.
 
-Causality theory (Pearl 2009, Peters 2017} provides language, algorithms, and tools to discover and infer cause-and-effect relationships from any collection of observational/experimental data based on a partial understanding of a complex system. The field provides a powerful framework for learning a (partial) representation of the underlying causal model, evaluating the effect of unrealized interventions, reasoning about the effects of stochastic policies, generalizing causal knowledge to a target population, recovering from selection bias, and deriving counterfactual explanations. 
+Causality theory (Pearl 2009, Peters 2017) provides language, algorithms, and tools to discover and infer cause-and-effect relationships from any collection of observational/experimental data based on a partial understanding of a complex system. The field provides a powerful framework for learning a (partial) representation of the underlying causal model, evaluating the effect of unrealized interventions, reasoning about the effects of stochastic policies, generalizing causal knowledge to a target population, recovering from selection bias, and deriving counterfactual explanations. 
 Moreover, there is increasing interest in using the structure and invariances defined by causal models in problems with continuous data distribution shifts. 
 
 In machine learning, many of these problems appear under the rubric of continual learning. Continual learning systems (Chen 2018, Hadsell 2020) learn over time from a continuous stream of data, enable knowledge transfer and alleviate potentially malicious interference when distributional shifts are experienced. At the crux, they achieve the latter without revisiting previously encountered training samples (unless they are in memory), much in contrast to traditional machine learning settings where all training samples are available from the start and can be revisited. 
