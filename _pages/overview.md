@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Continual Causality Bridge at AAAI 2024"
+title: "Continual Causality Bridge at AAAI 2025"
 layout: splash
 classes: wide
 ---
@@ -17,26 +17,19 @@ classes: wide
 
 # Continual Causality
 
-## 2nd Bridge Program at AAAI 2024: 20+21st February 
-![image-center](/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
+## 3rd Bridge Program at AAAI 2025: 25+26th February 
+![image-center](/assets/images/AAAI-25-banner.png){: .align-center style="width:1900px;"} 
 
-**Continual Causality is back for round 2 - proudly sponsored by [hessian.AI](https://hessian.ai), who financially supports our invited speakers!**
-
-![image-center](assets/images/hessian-ai-logo.png){: .align-center style="width:1900px;"} 
+**Continual Causality is back for round 3!**
 
 #### Bridge Overview
-We aim to bring together the fields of *continual learning* and *causality* in a [AAAI-24 bridge program](https://aaai.org/aaai-conference/aaai-24-bridge-program/) called *Continual Causality*. Both fields research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. Despite some recent interest in bringing the two fields together, including our AAAI-23 bridge program of the same title, it is currently unclear how causal models may describe continuous streams of data and, vice versa, for continual learning to exploit learned causal structure. 
+We aim to bring together the fields of *continual learning* and *causality* in our recurring [AAAI-25 bridge program](https://aaai.org/conference/aaai/aaai-25/bridge-program-call/) called *Continual Causality*. Both fields research complementary aspects of human cognition and are fundamental components of artificial intelligence if it is to reason and generalize in complex environments. 
 
-With this bridge program, we aim to continue our first steps towards a unified treatment of these fields and to provide the space for learning, discussions, and to connect and build a diverse community. The activities range from traditional tutorials and real-world
-application sessions on the educational side, invited vision
-talks and contributed ones based on submitted papers, to a
-panel and breakout discussions. All materials will be publicly
-disseminated as a foundation for the community, and the respectively discussed ideas, challenges and prospects will be
-aggregated to foster continued exchanges beyond AAAI-24
+In this third edition of our bridge program, we aim to take further steps towards a unified treatment of these fields and continue to provide the space for learning, discussions, and to connect and build a diverse community. The activities range from traditional tutorials on the educational side, invited vision talks and contributed ones based on submitted papers, to interactive sessions related to a novel hosted challenge, a speakers panel and community breakout discussions. All materials will be publicly disseminated as a foundation for the community, and the respectively discussed ideas, challenges and prospects will be aggregated to foster continued exchanges beyond AAAI-25.     
 
 * More in-depth information is provided in below paragraphs and the [bridge format section](http://www.continualcausality.org/format/). 
-* The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts (submission deadline for 2024 has passed).
-* Find information on the invited speakers and detailed schedule in the 2024 [program tab](https://www.continualcausality.org/program/)
+* The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts.
+* Find information on the invited speakers and detailed schedule in the 2025 [program tab](https://www.continualcausality.org/program/)
 * Join our community on [Slack](https://join.slack.com/t/continualcausality/shared_invite/zt-1fwahodl3-7Z8xe_lzxj33qEbTs558kg)
 * Email info[at]continualcausality[dot]org for questions  
 
