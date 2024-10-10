@@ -7,13 +7,17 @@ classes: wide
 
 # Call for Participation
 
-> Submission deadline: Extended: Dec 3rd ~~24th November 2023~~, Anywhere On Earth (AoE). Submission will be handled through OpenReview: [https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge](https://openreview.net/group?id=AAAI.org/2024/Bridge/CCBridge)
+The Continual Causality 2025 call for papers will release soon (by October 19th)
 
-> Notifications: 20th December 2023
+This year, there will be several novel changes, such as the possibility to submit both in non-archival form and for inclusion into the proceedings. Should you already wish to start working on your submissions, we leave the old call for 2024 for reference below. 
 
-> Bridge: 20-21st February 2024
- 
- 
+> Submission deadline: tbd, Anywhere On Earth (AoE). Submission will be handled through OpenReview: link tbd
+
+> Notifications: tbd
+
+> Bridge: tbd
+
+## 2024 Old CfP
 The fields of **causality** and **continual learning** research complementary aspects of human cognition and are
 fundamental components of artificial intelligence if it is to reason and generalize in complex environments. On
 the one hand, causality theory provides the language, algorithms, and tools to discover and infer cause-and-effect
