@@ -19,7 +19,7 @@ classes: wide
 # Past Events
 
 ## Bridge Program at AAAI 2024 - 20+21st February 2024
-![image-center](/assets/images/AAAI-23-banner.png){: .align-center style="width:1900px;"} 
+![image-center](/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
 
 **We thank everyone for their participation in the 2024 second Bridge on Continual Causality. All available materials and link to PMLR paper proceedings are now updated on this website in links below. We are looking forward to seeing you all at future folow-up events!**
 
