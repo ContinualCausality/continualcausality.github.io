@@ -5,6 +5,8 @@ layout: splash
 classes: wide
 ---
 
+**This page is archived from the 2024 event. Please see the home page for up-to-date information**
+
 # Accepted Papers
 The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts with your submission. Check out the details to get your work accepted! 
 

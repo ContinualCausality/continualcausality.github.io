@@ -13,6 +13,8 @@ classes: wide
     }
  </style>
 
+**This page is archived from the 2024 event. Please see the home page for up-to-date information**
+
 # Program
 
 The bridge's program will span activities from traditional tutorials and invited vision talks, to real-world application sessions and contributed talks based on submitted papers. In addition there will be an interactive panel and breakout discussions.

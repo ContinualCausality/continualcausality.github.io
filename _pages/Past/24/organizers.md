@@ -34,6 +34,7 @@ classes: wide
 	}
  </style>
 
+**This page is archived from the 2024 event. Please see the home page for up-to-date information**
 
 # Organizers
 Our seven organizers represent a balanced expertise with a focus on continual learning and causality. Martin, Tyler, James and Keiland are board members of the [ContinualAI](https://www.continualai.org) non-profit organization. Devendra, Adèle and Rebecca feature the complementary required expertise in causality. 

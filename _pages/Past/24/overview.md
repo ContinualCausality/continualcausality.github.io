@@ -17,6 +17,8 @@ classes: wide
 
 # Continual Causality
 
+**This page is archived from the 2024 event. Please see the home page for up-to-date information**
+
 ## 2nd Bridge Program at AAAI 2024: 20+21st February 
 ![image-center](/assets/images/AAAI-24-banner.png){: .align-center style="width:1900px;"} 
 

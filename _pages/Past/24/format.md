@@ -7,6 +7,8 @@ classes: wide
 
 # Bridge Format
 
+**This page is archived from the 2024 event. Please see the home page for up-to-date information**
+
 #### Elements and Activities
 
 As a *two-day event* (see detailed timeline in the [program tab](http://www.continualcausality.org/program/)), our bridge offers a varied set of activities that support education and discussion at various levels of expertise. 
