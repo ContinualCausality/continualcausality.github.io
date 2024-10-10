@@ -40,7 +40,7 @@ Our seven organizers represent a balanced expertise with a focus on continual le
 
 <a href="http://owll-lab.com">Martin Mundt</a> |  <a href="https://ml-research.github.io/people/rkamath/index.html">Roshni Kamath</a> | <a href="https://sites.google.com/site/pksrijith/home">Srijith P.K</a> | <a href="https://www.kwcooper.xyz">Keiland Cooper</a>
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-![image-left]( /assets/images/martin.jpg){: .align-center style="width:150px;"}  |  ![image-left]( /assets/images/roshni.png){: .align-center style="width:150px;"} | ![image-left]( /assets/images/srijith.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/keiland.jpg){: .align-center style="width:150px;"}
+![image-left]( /assets/images/martin.jpg){: .align-center style="width:150px;"}  |  ![image-left]( /assets/images/roshni.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/srijith.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/keiland.jpg){: .align-center style="width:150px;"}
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
 Full Professor  | PhD Student | Associate Professor | PhD Candidate
 :-------------------------:|:-------------------------:|:-------------------------: 
