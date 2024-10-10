@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /24/overview
 title: "Continual Causality Bridge at AAAI 2024"
 layout: splash
 classes: wide

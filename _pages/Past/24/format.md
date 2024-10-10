@@ -1,5 +1,5 @@
 ---
-permalink: /format/
+permalink: /24/format/
 title: "Bridge Format"
 layout: splash
 classes: wide

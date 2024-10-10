@@ -1,5 +1,5 @@
 ---
-permalink: /organizers/
+permalink: /24/organizers/
 title: "Organizers"
 layout: splash
 classes: wide

@@ -1,5 +1,5 @@
 ---
-permalink: /papers/
+permalink: /24/papers/
 title: "Accepted Papers"
 layout: splash
 classes: wide

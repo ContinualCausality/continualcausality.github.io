@@ -1,5 +1,5 @@
 ---
-permalink: /program/
+permalink: /24/program/
 title: "Program"
 layout: splash
 classes: wide
