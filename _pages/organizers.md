@@ -52,7 +52,7 @@ TU Darmstadt & Uni Bremen | TU Darmstadt & hessian.AI | IIT Hyderabad
 :-------------------------:|:-------------------------:|:-------------------------:
 Assistant Professor  | PhD Candidate | Research Scientist
 :-------------------------:|:-------------------------:|:-------------------------: 
-TU Eindhoven | TU Darmstadt & hessian.AI | TU Dresden
+TU Eindhoven | University of California | TU Dresden
 
 
 ### Challenge Team
