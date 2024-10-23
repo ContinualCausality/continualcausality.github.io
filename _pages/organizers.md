@@ -57,17 +57,13 @@ TU Eindhoven | TU Darmstadt & hessian.AI | TU Dresden
 
 ### Challenge Team
 
-
-Florian Peter Busch |  Moritz Willig | Dupati Srikar Chandra	| Vishnuprasadh Kumaravelu
-:-————————:|:-————————:|:-————————:|:-————————:
-![image-left]( /assets/images/florian.jpeg){: .align-center style=“width:150px;”}  |  ![image-left]( /assets/images/moritz.jpeg){: .align-center style=“width:150px;”} | ![image-left]( /assets/images/dupati.jpeg){: .align-center style=“width:150px;”} | ![image-left]( /assets/images/bio-photo.jpg){: .align-center style=“width:150px;”}
-:-————————:|:-————————:|:-————————:|:-————————: 
-PhD Student  | PhD Student | PhD Student | PhD Student
-:-————————:|:-————————:|:-————————:|:-————————: 
-TU Darmstadt & hessian.AI | TU Darmstadt & hessian.AI | IIT Hyderabad | IIT Hyderabad
-
-
-
+|                     Florian Peter Busch                      |                        Moritz Willig                         |                    Dupati Srikar Chandra                     |                   Vishnuprasadh Kumaravelu                   |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![image-left]( /assets/images/florian.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/moritz.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/dupati.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/bio-photo.jpg){: .align-center style="width:150px;"} |
+|                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |
+|                         PhD Student                          |                         PhD Student                          |                         PhD Student                          |                         PhD Student                          |
+|                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |
+|                  TU Darmstadt & hessian.AI                   |                         TU Darmstadt                         |                        IIT Hyderabad                         |                        IIT Hyderabad                         |
 
 
 
