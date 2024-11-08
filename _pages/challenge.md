@@ -5,6 +5,16 @@ layout: splash
 classes: wide
 ---
 
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 # ConCon Challenge
 
 ### Overview
@@ -38,7 +48,7 @@ To avoid overfitting on the original ConCon dataset, we have generated a **new c
 
 In this challenge, the goal is to train a model that learns the ground truth rule and, thus, performs well on unconfounded data. To this end, it must avoid only learning the easy solution that is given by the task-specific confounders. To this end, in addition to the data for the confounded tasks, we publish an unconfounded dataset without labels. The goal is to **maximize the performance on this unconfounded dataset**. Specifically, the accuracy is to be calculated as
 
-\\[ \text{acc} = \sum_{i=1}^{n}\frac{\mathbb{I}(\hat{y}_i = y_i)}{n}, \\]
+$$\text{acc} = \sum_{i=1}^{n}\frac{\mathbb{I}(\hat{y}_i = y_i)}{n},$$
 
 where \( n=1500 \) is the number of samples in the unconfounded dataset, \( \hat{y}_i \) is the prediction for sample \( i \), and \( y_i \) is the ground truth label for sample \( i \). Out of these 1500 images, 450 (30%) images are used for evaluation for the public leaderboard and the other 1050 (70%) images are used for evaluation for a private leaderboard.
 
