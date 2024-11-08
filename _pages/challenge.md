@@ -50,7 +50,7 @@ In this challenge, the goal is to train a model that learns the ground truth rul
 
 $$\text{acc} = \sum_{i=1}^{n}\frac{\mathbb{I}(\hat{y}_i = y_i)}{n},$$
 
-where \( n=1500 \) is the number of samples in the unconfounded dataset, \( \hat{y}_i \) is the prediction for sample \( i \), and \( y_i \) is the ground truth label for sample \( i \). Out of these 1500 images, 450 (30%) images are used for evaluation for the public leaderboard and the other 1050 (70%) images are used for evaluation for a private leaderboard.
+where $n=1500$ is the number of samples in the unconfounded dataset, $\hat{y}_i$ is the prediction for sample $i$, and $y_i$ is the ground truth label for sample $i$. Out of these 1500 images, 450 (30%) images are used for evaluation for the public leaderboard and the other 1050 (70%) images are used for evaluation for a private leaderboard.
 
 **Training instructions:** Training should be conducted one step at a time, following the continual learning order given by the dataset. This means a model should first be trained on data from Task 0, then updated using data from Task 1, and after that, updated using data from Task 2. Data used to train and update the model may not simply be accumulated fully, however using a small amount of memory as a memory buffer is in principle permitted. The size of the buffer should be justified and generally as small as possible.
 
