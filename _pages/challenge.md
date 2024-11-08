@@ -5,7 +5,8 @@ layout: splash
 classes: wide
 ---
 
-  <script type="text/x-mathjax-config">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">  
+<script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
