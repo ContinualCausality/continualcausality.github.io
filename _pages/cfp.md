@@ -35,9 +35,9 @@ We invite submissions for a **proceedings track** that present general positions
 * Effective ways for causal structure to aid in leveraging the accumulated knowledge of a continual learning system.
 * Leveraging causal tools to interpret distributional shifts in continual learning.
 * Next generation benchmarks that go beyond repurposing of existing datasets to adequately support the above items and further essential research questions towards a symbiosis of continual learning and causality.
- 
 
-Submission will be compiled in ** a Proceedings of Machine Learning Research (PMLR)** volume. **Works must be original and limited to four pages** (excluding references and optional appendices) in the AAAI format. The **deadline for submissions is November 25, 2024 (AOE)**. All submissions will be managed through [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Bridge/Continual_Causality). The **review process is double-blind**, so submissions should be **anonymized**. 
+
+Submission will be compiled in **a Proceedings of Machine Learning Research (PMLR)** volume. **Works must be original and limited to four pages** (excluding references and optional appendices) in the AAAI format. The **deadline for submissions is November 25, 2024 (AOE)**. All submissions will be managed through [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Bridge/Continual_Causality). The **review process is double-blind**, so submissions should be **anonymized**. 
 
 
 ### Continual Confounding Challenge
