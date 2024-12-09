@@ -41,9 +41,9 @@ classes: wide
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image-left]( /assets/images/martin.jpg){: .align-center style="width:150px;"}  |  ![image-left]( /assets/images/roshni.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/srijith.jpeg){: .align-center style="width:150px;"}
 :-------------------------:|:-------------------------:|:-------------------------:
-Research Group Leader  | PhD Student | Associate Professor
+Full Professor  | PhD Student | Associate Professor
 :-------------------------:|:-------------------------: 
-TU Darmstadt & Uni Bremen | TU Darmstadt & hessian.AI | IIT Hyderabad 
+University of Bremen | TU Darmstadt & hessian.AI | IIT Hyderabad 
 
 
 <a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a> |  <a href="https://www.kwcooper.xyz">Keiland Cooper</a> | <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjeku2ahtqBAxUYI0QIHRzUD0YQFnoECBYQAQ&url=https%3A%2F%2Fde.linkedin.com%2Fin%2Frebecca-herman&usg=AOvVaw01_2afPQu3_DM08kgo1AD2&opi=89978449">Rebecca Herman</a>
