@@ -17,7 +17,7 @@ classes: wide
 
 # Continual Causality
 
-## 3rd Bridge Program at AAAI 2025: 25+26th February 
+## 3rd Bridge Program at AAAI 2025: 25th of February 
 ![image-center](/assets/images/AAAI-25-banner.png){: .align-center style="width:1900px;"} 
 
 **Continual Causality is back for round 3!**
