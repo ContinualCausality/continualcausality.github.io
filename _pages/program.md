@@ -15,28 +15,25 @@ classes: wide
 
 # Program
 
-The bridge's program will span activities from traditional tutorials and invited vision talks, to to contributed talks based on submitted papers, and a session centered around the hosted challenge. In addition there will be an interactive panel and breakout discussions.
+The bridge's program will span activities from traditional tutorials and invited vision talks, to an interactive panel and breakout discussions.
 
-The tentative program can be found below and information on confirmed invited speakers will be updated frequently. The program *at one glance* is as follows:
+The program can be found below:
 
 All times are in Eastern Standard Time (EST, UTC-5)
 
-#### Day 1 (February 20th)
+#### February 25th
 
-* 8:45: Bridge kickoff - Organizers (15 min)
-* 9:00: Tutorial part 1 - continual learning: TBD (75 min) 
-* 10:15: Coffee break - coffee provided by the conference (30 min) 
-* 10:45: Tutorial part 2 - causality: TBD (75 min)
+* 9:00: Bridge kickoff - Organizers (15 min)
+* 9:15: [Tigramite tutorial](https://github.com/jakobrunge/tigramite): Rebecca Herman, TU Dresden (90 min) 
+* 10:45: Coffee break - coffee provided by the conference (30 min) 
+* 11:15: Invited vision talk: [Sheng Li](https://sheng-li.org), University of Virginia (45 min)
 * 12:00: Lunch break - on your own, no lunch provided (90 min) 
-* 13:30: Invited vision talks on the bridge's interface, 3 x 40 min + 10 minute Q&A each (150 min) 
-	* 13:30-14:20: [Sheng Li](https://sheng-li.org), University of Virginia
-	* 14:20-15:10: [Karthika Mohan](https://www.karthikamohan.com), Oregon State University
-	* 15:10-16:00: [Eric Eaton](https://www.seas.upenn.edu/~eeaton/), University of Pennsylvania
+* 13:30: Invited vision talk: [Karthika Mohan](https://www.karthikamohan.com), Oregon State University (45 min)
+* 14:15: Invited vision talk: [Eric Eaton](https://www.seas.upenn.edu/~eeaton/), University of Pennsylvania (45 min)
+* 15:00: Panel discussion - tutorial & vision speakers (60 min)
 * 16:00-16:30: Coffee break - coffee provided by the conference (30 min)
-* 16:30: Panel discussion - Invited day 1 and 2 speakers (90 min)
-
-#### Day 2 (February 21st) 
-* to be updated
+* 16:30: Breakout discussions (60 min)
+* 17:30: Bridge wrap-up
 
 ## Invited Speakers
 
@@ -54,5 +51,7 @@ Eric Eaton is a research associate professor in the Department of  Computer and 
 
 
 ## Tutorials 
-TBD
+![image-left]( /assets/images/Rebecca.jpeg){: .align-left style="width:250px;"}
+[Rebecca Herman](https://climateinformaticslab.com/about/) - Technical University of Dresden <br />
+Rebecca Herman is a postdoctoral research scientist at the technical University of Dresden. Previously she was part of the German Aerospace Center (DLR). She studied climate science and monsoon rainfall during her PhD, and her search for meaningful attribution techniques in the face of limited observational and experimental data led her to the study of causal inference. She is now working on the CausalEarth project with Jakob Runge, focusing on algorithm improvement and effective use of causal inference techniques on time-series climate data. At Continual Causality, she will be presenting a tutorial on [Tigramite](https://github.com/jakobrunge/tigramite) - a popular python software library for causal inference with time series data. 
 
