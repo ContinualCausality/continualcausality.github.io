@@ -24,7 +24,7 @@ All times are in Eastern Standard Time (EST, UTC-5)
 #### February 25th
 
 * 9:00: Bridge kickoff - Organizers (15 min)
-* 9:15: [Tigramite tutorial](https://github.com/jakobrunge/tigramite): Rebecca Herman, TU Dresden (90 min)
+* 9:15: [Tigramite tutorial](https://github.com/jakobrunge/tigramite): Rebecca Herman, ScaDS.AI Dresden/Leipzig (90 min)
 * 10:45: Coffee break - coffee provided by the conference (30 min)
 * 11:15: Invited vision talk: [Eric Eaton](https://www.seas.upenn.edu/~eeaton/), University of Pennsylvania (45 min)
 * 12:00: Lunch break - on your own, no lunch provided (90 min)
