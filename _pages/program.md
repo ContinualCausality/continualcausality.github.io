@@ -24,15 +24,15 @@ All times are in Eastern Standard Time (EST, UTC-5)
 #### February 25th
 
 * 9:00: Bridge kickoff - Organizers (15 min)
-* 9:15: [Tigramite tutorial](https://github.com/jakobrunge/tigramite): Rebecca Herman, TU Dresden (90 min) 
-* 10:45: Coffee break - coffee provided by the conference (30 min) 
-* 11:15: Invited vision talk: [Sheng Li](https://sheng-li.org), University of Virginia (45 min)
-* 12:00: Lunch break - on your own, no lunch provided (90 min) 
+* 9:15: [Tigramite tutorial](https://github.com/jakobrunge/tigramite): Rebecca Herman, TU Dresden (90 min)
+* 10:45: Coffee break - coffee provided by the conference (30 min)
+* 11:15: Invited vision talk: [Eric Eaton](https://www.seas.upenn.edu/~eeaton/), University of Pennsylvania (45 min)
+* 12:00: Lunch break - on your own, no lunch provided (90 min)
 * 13:30: Invited vision talk: [Karthika Mohan](https://www.karthikamohan.com), Oregon State University (45 min)
-* 14:15: Invited vision talk: [Eric Eaton](https://www.seas.upenn.edu/~eeaton/), University of Pennsylvania (45 min)
-* 15:00: Panel discussion - tutorial & vision speakers (60 min)
+* 14:15: Breakout discussions (60 min)
+* 15:15: Invited vision talk: [Sheng Li](https://sheng-li.org), University of Virginia (45 min)
 * 16:00-16:30: Coffee break - coffee provided by the conference (30 min)
-* 16:30: Breakout discussions (60 min)
+* 16:30: Panel discussion - tutorial & vision speakers (60 min)
 * 17:30: Bridge wrap-up
 
 ## Invited Speakers
