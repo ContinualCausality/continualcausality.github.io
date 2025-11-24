@@ -9,7 +9,7 @@ classes: wide
 
 #### Elements and Activities
 
-Our bridge offers a varied set of activities that support education and discussion at various levels of expertise (see detailed timeline in the [program tab](http://www.continualcausality.org/program/)). 
+Our bridge offers a varied set of activities that support education and discussion at various levels of expertise (see detailed timeline in the [program tab](http://www.continualcausality.com/program/)). 
 Educational activities involve a software tutorial, followed by a set of vision talks that will provide positions on how the fields of continual learning and causality can be brought further together, why a necessity for the latter exists, and what respective challenges may need to be faced in the imminent future. 
 The invited vision talks will serve as a basis for a panel and interactive breakout sessions towards the end of the bridge. Participants of the bridge will get the chance to network, discuss presented ideas, and delve into a deeper exchange in more detailed conversation. The various outcomes of this session will ultimately be collected and disseminated beyond the bridge attendees. 
 

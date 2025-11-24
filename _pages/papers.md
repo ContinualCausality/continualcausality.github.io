@@ -6,7 +6,7 @@ classes: wide
 ---
 
 # Accepted Papers
-The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the 2025 bridge efforts with your submission. Check out the details to get your work accepted! 
+The [call for participation](http://www.continualcausality.com/cfp/) outlines how to contribute to the vision and actively join the 2025 bridge efforts with your submission. Check out the details to get your work accepted! 
 
 Previous bridge editions’ contributions have been compiled in:
 

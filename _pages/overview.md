@@ -27,9 +27,9 @@ We aim to bring together the fields of *continual learning* and *causality* in o
 
 In this third edition of our bridge program, we aim to take further steps towards a unified treatment of these fields and continue to provide the space for learning, discussions, and to connect and build a diverse community. The activities range from traditional tutorials on the educational side and invited vision talks  to interactive sessions involving a speakers panel and community breakout discussions. All materials will be publicly disseminated as a foundation for the community, and the respectively discussed ideas, challenges and prospects will be aggregated to foster continued exchanges beyond AAAI-25.   
 
-* More in-depth information is provided in below paragraphs and the [bridge format section](http://www.continualcausality.org/format/). 
-* The [call for participation](http://www.continualcausality.org/cfp/) outlines how to contribute to the vision and actively join the bridge efforts.
-* Find information on the invited speakers and detailed schedule in the 2025 [program tab](https://www.continualcausality.org/program/)
+* More in-depth information is provided in below paragraphs and the [bridge format section](http://www.continualcausality.com/format/). 
+* The [call for participation](http://www.continualcausality.com/cfp/) outlines how to contribute to the vision and actively join the bridge efforts.
+* Find information on the invited speakers and detailed schedule in the 2025 [program tab](https://www.continualcausality.com/program/)
 * Join our community on [Slack](https://join.slack.com/t/continualcausality/shared_invite/zt-1fwahodl3-7Z8xe_lzxj33qEbTs558kg)
 * Email info[at]continualcausality[dot]org for questions  
 
