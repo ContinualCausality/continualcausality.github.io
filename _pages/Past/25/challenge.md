@@ -1,5 +1,5 @@
 ---
-permalink: /challenge/
+permalink: /25/challenge/
 title: "ConCon Challenge"
 layout: splash
 classes: wide
@@ -17,6 +17,8 @@ classes: wide
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # ConCon Challenge
+
+**This page is archived from the 2025 event. Please see the home page for up-to-date information**
 
 ### Overview
 

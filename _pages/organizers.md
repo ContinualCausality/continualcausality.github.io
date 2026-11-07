@@ -3,17 +3,32 @@ permalink: /organizers/
 title: "Organizers"
 layout: splash
 classes: wide
+
 ---
+
  <style type="text/css">
     .image-left {
       display: block;
       margin-left: auto;
       margin-right: auto;
-      float: right;
+      float: none;
+    }
+    .organizer-photo {
+      display: block !important;
+      width: 150px !important;
+      height: 150px !important;
+      object-fit: contain !important;
     }
     td, th {
    		border: none!important;
+      text-align: center;
    	} 
+    table {
+      display: table !important;
+      width: 100% !important;
+      max-width: 100%;
+      table-layout: fixed;
+    }
    	table th:first-of-type {
     	width: 15%;
 	}
@@ -35,37 +50,22 @@ classes: wide
  </style>
 
 
-# Organizers 
 
-<a href="http://owll-lab.com">Martin Mundt</a> |  <a href="https://ml-research.github.io/people/rkamath/index.html">Roshni Kamath</a> | <a href="https://sites.google.com/site/pksrijith/home">Srijith P.K</a>
-:-------------------------:|:-------------------------:|:-------------------------:
-![image-left]( /assets/images/martin.jpg){: .align-center style="width:150px;"}  |  ![image-left]( /assets/images/roshni.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/srijith.jpeg){: .align-center style="width:150px;"}
-:-------------------------:|:-------------------------:|:-------------------------:
-Full Professor  | PhD Student | Associate Professor
-:-------------------------:|:-------------------------: 
-University of Bremen | TU Darmstadt & hessian.AI | IIT Hyderabad 
+# Organizers
 
-
- <a href="https://sites.google.com/view/devendradhami">Devendra Singh Dhami</a> |    <a href="https://www.kwcooper.xyz">Keiland Cooper</a>     | <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjeku2ahtqBAxUYI0QIHRzUD0YQFnoECBYQAQ&url=https%3A%2F%2Fde.linkedin.com%2Fin%2Frebecca-herman&usg=AOvVaw01_2afPQu3_DM08kgo1AD2&opi=89978449">Rebecca Herman</a> 
- :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: 
- ![image-left]( /assets/images/devendra.jpg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/keiland.jpg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/Rebecca.jpeg){: .align-center style="width:150px;"} 
-                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  
-                     Assistant Professor                      |                        PhD Candidate                         |                      Research Scientist                      
-                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  
-                         TU Eindhoven                         |                   University of California                   |                   ScaDS.AI Dresden/Leipzig                   
+| <a href="https://ml-research.github.io/people/fbusch/index.html">Florian Busch</a> | <a href="https://ml-research.github.io/people/rkamath/index.html">Roshni Kamath</a> | <a href="https://ml-research.github.io/people/nhegde/index.html">Niharika Hegde</a> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![image-left](/assets/images/organizers/florian.jpeg){: .align-center .organizer-photo} | ![image-left](/assets/images/organizers/roshni.jpeg){: .align-center .organizer-photo} | ![image-left](/assets/images/organizers/niharika.jpeg){: .align-center .organizer-photo} |
+|                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |
+|                         PhD Student                          |                         PhD Student                          |                         PhD Student                          |
+|                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |
+|                  TU Darmstadt & hessian.AI                   |                  TU Darmstadt & hessian.AI                   |                      DFKI & TU Darmstadt                      |
 
 
-### Challenge Team
-
-|                     Florian Peter Busch                      |                        Moritz Willig                         |                    Dupati Srikar Chandra                     |                   Vishnuprasadh Kumaravelu                   |
+| <a href="https://owl-ml.com/people/mundt/">Martin Mundt</a>  | <a href="https://sites.google.com/view/razp/home">Razvan Pascanu</a> |    <a href="https://causxai.github.io/">Adèle Ribeiro</a>    | <a href="https://sites.google.com/site/pksrijith/home">Srijith P.K</a> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![image-left]( /assets/images/florian.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/moritz.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/dupati.jpeg){: .align-center style="width:150px;"} | ![image-left]( /assets/images/vishnuprasadh.jpeg){: .align-center style="width:150px;"} |
+| ![image-left](/assets/images/organizers/martin.jpeg){: .align-center .organizer-photo} | ![image-left](/assets/images/organizers/razvan.jpeg){: .align-center .organizer-photo} | ![image-left](/assets/images/organizers/adele.jpeg){: .align-center .organizer-photo} | ![image-left](/assets/images/organizers/srijith.jpeg){: .align-center .organizer-photo} |
 |                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |
-|                         PhD Student                          |                         PhD Student                          |                         PhD Student                          |                         PhD Student                          |
+|                        Full Professor                        |                      Research Scientist                      |                          Professor                           |                     Associate Professor                      |
 |                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |                 :-------------------------:                  |
-|                  TU Darmstadt & hessian.AI                   |                         TU Darmstadt                         |                        IIT Hyderabad                         |                        IIT Hyderabad                         |
-
-
-
-
-
+|                     University of Bremen                     |                        DeepMind & MILA                        |                         RWTH Aachen                          |                        IIT Hyderabad                         |

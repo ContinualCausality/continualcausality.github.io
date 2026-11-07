@@ -6,11 +6,11 @@ classes: wide
 ---
 
 # Accepted Papers
-The [call for participation](http://www.continualcausality.com/cfp/) outlines how to contribute to the vision and actively join the 2025 bridge efforts with your submission. Check out the details to get your work accepted! 
+The [call for participation](https://www.continualcausality.com/cfp/) outlines how to contribute to the vision and actively join the 2027 bridge efforts with your submission. Check out the details to get your work accepted! 
 
 Previous bridge editions’ contributions have been compiled in:
 
-* 2024: to be released
+* 2024: [**Proceedings of Machine Learning Research Volume 268**](https://proceedings.mlr.press/v268/).
 * 2023: [**Proceedings of Machine Learning Research Volume 208**](https://proceedings.mlr.press/v208/).
 
 All accepted papers have further been presented as a poster at the Continual Causality Bridge.
