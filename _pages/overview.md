@@ -23,6 +23,16 @@ classes: wide
 
 **Continual Causality is back for round 4!**
 
+#### Key Dates
+
+> Submission deadline (novel work; 2 pages or 4 pages): **November 30, 2026** (AoE) - [submit via OpenReview](https://openreview.net/group?id=AAAI.org/2027/Bridge/Continual_Causality_Novel)
+
+> Submission deadline (previously published work): **January 8, 2027** (AoE) - [submit via OpenReview](https://openreview.net/group?id=AAAI.org/2027/Bridge/Continual_Causality_Previously_Published)
+
+> Bridge: **February 16 or 17, 2027** (exact date TBA)
+
+See the [call for participation](https://www.continualcausality.com/cfp/) for details.
+
 #### Bridge Overview
 
 The recurring [AAAI-27 bridge program](https://aaai.org/conference/aaai/aaai-27/) brings together the continual learning and causality communities. Both fields tackle important challenges in artificial intelligence involving learning and reasoning in complex, dynamic environments.
@@ -31,7 +41,7 @@ Building on the previous editions, the fourth bridge focuses on how learning sys
 
 * More information is provided in the [bridge format section](https://www.continualcausality.com/format/).
 * The [call for participation](https://www.continualcausality.com/cfp/) explains how to contribute to the bridge.
-* Schedule and speaker information will be added to the [program tab](https://www.continualcausality.com/program/).
+* Schedule and speaker information can be found under the [program tab](https://www.continualcausality.com/program/).
 * Join our community on [Slack](https://join.slack.com/t/continualcausality/shared_invite/zt-1fwahodl3-7Z8xe_lzxj33qEbTs558kg).
 * Email info[at]continualcausality[dot]com with questions.
 
