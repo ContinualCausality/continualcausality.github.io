@@ -25,7 +25,7 @@ classes: wide
 
 #### Key Dates
 
-> Submission deadline (novel work; 2 pages or 4 pages): **November 30, 2026** (AoE) - [submit via OpenReview](https://openreview.net/group?id=AAAI.org/2027/Bridge/Continual_Causality_Novel)
+> Submission deadline (novel work; 2 pages or 4 pages): **December 1, 2026** (AoE) - [submit via OpenReview](https://openreview.net/group?id=AAAI.org/2027/Bridge/Continual_Causality_Novel)
 
 > Submission deadline (previously published work): **January 8, 2027** (AoE) - [submit via OpenReview](https://openreview.net/group?id=AAAI.org/2027/Bridge/Continual_Causality_Previously_Published)
 
