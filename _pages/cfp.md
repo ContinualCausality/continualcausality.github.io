@@ -18,7 +18,7 @@ classes: wide
 > Notifications (previously published work): **January 15, 2027**
 
 
-> Bridge: **February 16 or 17, 2027**  (exact date TBA)
+> Bridge: **February 17, 2027**
 
 
 The fields of **causality** and **continual learning** investigate complementary aspects of human cognition, and artificial intelligence must emulate both if it is to reason and generalize in complex environments. On the one hand, causality theory provides the language, algorithms, and tools to discover and infer cause-and-effect relationships from data. On the other hand, continual learning systems must balance learning from new data as they become available with retaining previous knowledge of systems that may not be stationary. Our recurring **Continual Causality Bridge** continues working towards a unified treatment of these fields by providing a **space to learn and discuss**, and to **connect** and **build a diverse long-term community**.

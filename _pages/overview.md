@@ -17,7 +17,7 @@ classes: wide
 
 # Continual Causality
 
-## 4th Bridge Program at AAAI 2027: February 16 or 17 (exact date TBA)
+## 4th Bridge Program at AAAI 2027: February 17
 
 ![AAAI banner](/assets/images/AAAI-27-banner.png){: .align-center style="width:1900px;"}
 
@@ -29,7 +29,7 @@ classes: wide
 
 > Submission deadline (previously published work): **January 8, 2027** (AoE) - [submit via OpenReview](https://openreview.net/group?id=AAAI.org/2027/Bridge/Continual_Causality_Previously_Published)
 
-> Bridge: **February 16 or 17, 2027** (exact date TBA)
+> Bridge: **February 17, 2027**
 
 See the [call for participation](https://www.continualcausality.com/cfp/) for details.
 

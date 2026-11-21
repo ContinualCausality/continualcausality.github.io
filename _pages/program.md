@@ -25,7 +25,7 @@ The program can be found below:
 
 All times are in Eastern Standard Time (EST, UTC-5)
 
-#### February 16th or 17th
+#### February 17th
 
 * 9:00: Bridge kickoff - Organizers (10 min)
 * 9:10: Tutorial: Causality and continual learning (45 min)
